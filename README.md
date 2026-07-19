@@ -1,136 +1,138 @@
-# PA Ontology
-*A modal ontology built on possession and availability*
+# The P/A Ontology  
+*A Formal Modeling Framework for Actualization and Modal Progression*
+
+This repository accompanies the paper **“The P/A Ontology: A Structural Framework for Actualization and Modal Progression.”** It provides the formal definitions, modular components, and reference materials needed to understand and reproduce the ontology described in the manuscript.
+
+The P/A ontology is a **structural and modal framework**, not a physical theory. Its purpose is to clarify how actualization, modal futures, and causal organization can be represented in a discrete, relational system. The ontology is **agnostic** about underlying physics and is compatible with multiple interpretations.
+
+> “The ontology is not organized as a linear hierarchy of primitives, but as an interdependent network of concepts.”  
+> “Its basic entities… are defined through their mutual relations and jointly determine the structure of the framework.”
+
+Readers of the paper will find here a complete, navigable reference for all formal components of the ontology.
 
 ---
 
-## Overview
+## Purpose of This Repository
 
-The **Possession/Availability (P/A) Ontology** is a foundational modal framework that distinguishes between:
+### Reference for Readers of the Paper
+This repository is designed as a companion to the manuscript.  
+It provides:
 
-- **Possession** — what a carrier has in actuality  
-- **Availability** — what a carrier could do in possibility  
+- the formal assumptions (axioms, postulates, definitions)  
+- the ontology’s core entities and operators  
+- structural diagrams  
+- minimal illustrative examples  
 
-This separation provides a clear structural vocabulary for exploring how discrete actualized events and finite modal futures interact. The ontology is **not** presented as a complete physical theory. Instead, it offers a conceptual and computational framework for studying modal progression, actualization, pruning, and finite ray bundles.
+Everything is organized so that reviewers and readers can easily locate the formal components referenced in the text.
 
-The repository contains the core ontology and a set of **illustrative examples** showing how the framework can be applied in controlled, limited contexts.
+### Formal Specification
+The ontology is defined through a network of interrelated concepts:
 
----
-
-## Core Concepts
-
-### Possession (Actuality)
-Carriers possess:
-
-- actualized events  
+- carriers  
+- waypoints  
+- rays  
+- modal time  
+- events  
 - causal chains  
-- alignment budgets  
-- resolved modal content  
+- possibility structures  
+- actualization and pruning operators  
 
-### Availability (Possibility)
-Carriers hold:
+These definitions are taken directly from Appendix C of the paper and presented here in modular form.
 
-- finite ray bundles  
-- admissible modal futures  
-- typed misalignment  
-- compatibility options  
+### Conceptual and Structural Clarity
+The repository emphasizes:
 
-### Modal Time
-A local ordering parameter on each ray, independent of spacetime.
+- structural neutrality  
+- interpretive flexibility  
+- modularity  
+- reproducibility  
 
-### Actualization & Pruning
-Actualization selects one admissible interaction.  
-Pruning removes incompatible futures.
-
-### Alignment & Misalignment
-Alignment drives modal progression.  
-Misalignment is the modal defect carried by quanta.
+The ontology is intended as a **formal tool** for reasoning about actualization and modal progression, not as a comprehensive physical model.
 
 ---
 
-## Constructive Witnesses
+## Academic Positioning
 
-Some mechanisms in the repository are **constructive witnesses**:  
-they demonstrate how the ontology could regulate modal complexity, without claiming that nature uses these mechanisms.
+The P/A ontology is:
 
-### Modal Saturation
-Unresolved interactions can increase ray bundle complexity.  
-To prevent runaway proliferation, each ray bundle has a maximum capacity.  
-If delayed momentum transfer pushes the bundle beyond this envelope, rays are pruned early.
+- **structural rather than foundational**  
+- **modal rather than metaphysical**  
+- **agnostic about underlying physics**  
+- **compatible with multiple dynamical assumptions**  
+- **intended for conceptual analysis and modeling**
 
-Modal saturation is **not** an axiom.  
-It is a **possible** regulator consistent with the ontology’s structure.
+Its scope is deliberately limited: it provides a formal representation of actualization and modal futures without making claims about empirical completeness or fundamental physical laws.
 
----
-
-## Illustrative Examples (Non‑Exhaustive)
-
-These examples are **not** claims of completeness or universal scope.  
-They simply show how the possession/availability framework can be applied in limited, controlled settings.
-
-Examples include:
-
-- reflection and refraction as modal‑consistency adjustments  
-- curvature from non‑uniform modal projection  
-- Aharonov–Bohm‑type phase behavior from geometric availability  
-- delayed momentum transfer in non‑absorptive interactions  
-- simple interference scenarios  
-
-These examples demonstrate how the ontology’s core structures can model specific behaviors without implying a full physical theory.
+This positioning follows the tradition of structural frameworks such as those developed by Khomyakov, where the emphasis is on **formal organization**, **modal structure**, and **causal consistency**, not on proposing a unified physical theory.
 
 ---
 
 ## Repository Structure
-```
-PA-ontology/
-|
-|-- core_ontology/
-|   |-- carriers/
-|   |-- rays/
-|   |-- waypoints/
-|   |-- alignment/
-|   |-- misalignment/
-|   |-- compatibility/
-|   |-- pruning/
-|   |-- actualization/
-|
-|-- constructive_witnesses/
-|   |-- modal_saturation/
-|
-|-- examples/
-|   |-- reflection_refraction/
-|   |-- modal_curvature/
-|   |-- aharonov_bohm/
-|   |-- delayed_momentum/
-|   |-- interference/
-|
-|-- uml/
-|   |-- ontology_structure.png
-```
+
+### `/FormalAssumptions/`
+Modular Markdown files containing:
+
+- Axiom 1 — Lawlike Regularity  
+- Axiom 2 — Universal Applicability  
+- Axiom 3 — Observer Independence  
+- Postulate — Empirical Conservation  
+- Postulate — Finite‑Speed Local Dynamics  
+- Postulate — Local Stable Records  
+- Postulate — Tsirelson‑Bounded Nonlocality  
+- Postulate — Quantum Interference  
+- Postulate — Local Availability of Trigger States  
+- Subpostulate — Weak Mixing / No Fine‑Tuned Suppression  
+- Definition — Trigger  
+- Index of Formal Assumptions
+
+### `/OntologyCore/`
+Formal definitions of:
+
+- Universe  
+- Realms (Actuality and Possibility)  
+- Modal Time  
+- Carriers (Particles and Quanta)  
+- Ray Bundles  
+- Waypoints  
+- Compatibility  
+- Actualization Operator  
+- Pruning Operator  
+- Entanglement  
+- Iteration  
+
+### `/Examples/`
+Minimal illustrative code demonstrating:
+
+- modal progression  
+- pruning  
+- event actualization  
+- compatibility evaluation  
+
+These examples are pedagogical and conceptual.
+
 ---
 
-## Scope and Limitations
+## Intended Audience
 
-This repository does **not** present a complete physical theory.  
-It provides:
+This repository is intended for:
 
-- a modal ontology  
-- computational primitives  
-- constructive witnesses  
-- illustrative examples  
+- readers of the paper  
+- peer reviewers  
+- researchers interested in modal frameworks  
+- anyone exploring structural approaches to actualization  
 
-The framework is exploratory and intended for conceptual clarity, algorithmic experimentation, and further research.
+It is not intended as a standalone physical model; rather, it provides the formal backbone needed to understand and evaluate the ontology presented in the manuscript.
 
 ---
 
-## License
+## Citation
 
-MIT License.
+If you reference this repository in academic work, please cite the accompanying paper:
+
+**Christian [Surname], “The P/A Ontology: A Structural Framework for Actualization and Modal Progression,” 2026.**
 
 ---
 
 ## Contact
 
-Christian Vibe Scheller
-
-Kongens Lyngby, Denmark
-
+For questions or collaboration inquiries, please use the contact information provided in the paper.
