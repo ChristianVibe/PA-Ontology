@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PA-Ontology/CopilotIndices/18.9.1244.61349/SemanticSymbols.db
+/.vs/PA-Ontology.slnx/copilot-chat/9f91e655/sessions/ea77638d-5482-42aa-b035-ce7e0ac6293f
+/.vs/PA-Ontology.slnx/FileContentIndex/5518094b-aaf1-42f5-a3d2-50e34574f3aa.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/b6e50ce3-a622-47a7-a589-e4a40ad772aa.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/d1b8058a-978c-440a-b1c4-9d8735e3f0f7.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/ec12d292-1076-4a78-9825-477c76e416d4.vsidx
+/.vs/PA-Ontology.slnx/v18/.wsuo
+/.vs/PA-Ontology.slnx/v18/DocumentLayout.backup.json
+/.vs/PA-Ontology.slnx/v18/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/PA-Ontology.slnx/FileContentIndex/7337d8e2-03ee-4e5b-b05a-3e53e8be6927.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/794d1e76-a777-4af8-ae79-4072c7047183.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/1daf39a9-8fbe-477f-bc09-428f953bc154.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/d77a5d16-32b7-4f0d-9623-8a503a958759.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/c4eb4548-a993-4ab9-b01d-31efc9dbc9cc.vsidx
+/.vs/PA-Ontology.slnx/FileContentIndex/35d1b0e8-632f-4d98-8e6a-f328d7acc43b.vsidx
+*.vsidx
