@@ -227,3 +227,54 @@ The Python code is meant for:
 
 For full‑scale, reproducible figures and high‑resolution interference/correlation curves,
 use the C# implementation, which is parallelized and optimized.
+
+## Results at a Glance
+
+The P/A ontology reproduces the qualitative structure of key quantum
+phenomena using only ray bundles, local compatibility, pruning, and
+actualization. The following plots and values summarize the core
+structural demonstrations.
+
+### Double Slit — No Which‑Path Detection
+Interference appears when no subsystem carries which‑path information.
+The detection statistics cannot be represented as a convex mixture of
+exclusive path alternatives.
+
+![Double slit without which‑path detection](DSE_NoWPD.png)
+
+### Double Slit — With Which‑Path Detection
+When a subsystem records which‑path information, interference is removed.
+The detection statistics become a convex mixture over definite path
+alternatives.
+
+![Double slit with which‑path detection](DSE_WPD.png)
+
+### Bell Test — Tsirelson‑Bounded Correlations
+A CHSH‑type experiment implemented with finite ray bundles, local
+actualization, and sparse conservation‑driven pruning yields correlations
+approaching the Tsirelson bound:
+
+
+
+```
+E(a_0,b_0) &= -0.6803, \\
+E(a_0,b_1) &= -0.7130, \\
+E(a_1,b_0) &= -0.7060, \\
+E(a_1,b_1) &= \phantom{-}0.7099,
+```
+
+
+
+giving a CHSH value:
+
+$$S = 2.8091$$
+
+
+
+in close agreement with the Tsirelson limit $2\sqrt{2} \approx 2.828$.
+
+These results demonstrate that the structural commitments of the P/A
+ontology are computationally realizable and capable of reproducing
+nontrivial empirical signatures — interference, which‑path suppression,
+and Tsirelson‑bounded nonlocal correlations — without wavefunctions or
+Hilbert‑space evolution.
