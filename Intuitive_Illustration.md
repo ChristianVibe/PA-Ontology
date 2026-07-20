@@ -95,3 +95,101 @@ The P/A ontology describes a universe where:
 - and **consistency is enforced by pruning**.
 
 It is a clean, geometric, event-driven framework for understanding physical reality.
+
+# Interference
+
+In standard quantum mechanics, interference is explained by modeling a
+particle’s progression as a wave. In the P/A ontology, particles are
+point-like and there are **no waves**. Nevertheless, interference
+patterns such as those in the double-slit experiment arise naturally
+from the geometry of admissible futures.
+
+---
+
+## Admissible Futures at the Slit Barrier
+
+Consider a particle approaching a double-slit barrier. As it progresses
+in modal time, its ray bundle contains admissible futures corresponding
+to:
+
+- passing through slit 1,
+- passing through slit 2,
+- or being absorbed by the barrier.
+
+If the particle survives the barrier, its admissible futures now split
+into two **disjoint ray bundles**:
+
+- one consisting of rays that passed through slit 1,
+- one consisting of rays that passed through slit 2.
+
+Each ray is a sequence of waypoints with fixed modal-time spacing.
+
+---
+
+## Rays Arriving at the Receptor
+
+At the receptor screen, **exactly two rays** (one from each bundle)
+reach each spacetime point where detection is possible.
+
+Let these rays be
+
+$$
+r_1 = (w_0^{(1)}, w_1^{(1)}, \ldots), \qquad
+r_2 = (w_0^{(2)}, w_1^{(2)}, \ldots).
+$$
+
+Because waypoints are spaced uniformly in modal time, the two rays may
+arrive at the receptor with:
+
+- **aligned waypoints**, or  
+- **misaligned waypoints**.
+
+This alignment determines the likelihood of actualization.
+
+---
+
+## Alignment and Misalignment
+
+If the waypoints of $r_1$ and $r_2$ **align** at the receptor, then the
+misalignment between their spacetime projections is small:
+
+$$
+\mathrm{misalign}(r_1, x) \approx \mathrm{misalign}(r_2, x).
+$$
+
+Aligned rays satisfy the compatibility relation more strongly, making
+actualization at that point **more likely**.
+
+If the waypoints are **misaligned**, then the spatial deviation is
+larger:
+
+$$
+\mathrm{misalign}(r_1, x) \not\approx \mathrm{misalign}(r_2, x),
+$$
+
+and the compatibility relation is weaker, reducing the chance of
+actualization.
+
+---
+
+## Emergence of the Interference Pattern
+
+The receptor screen records actualized events. Because the probability
+of actualization depends on waypoint alignment:
+
+- points where the two rays arrive **in phase** (aligned waypoints)  
+  have **high actualization probability** → bright fringes,
+
+- points where the rays arrive **out of phase** (misaligned waypoints)  
+  have **low actualization probability** → dark fringes.
+
+Thus the familiar interference pattern emerges **without waves**.  
+It arises from:
+
+1. the geometry of admissible futures,  
+2. the fixed modal-time spacing of waypoints,  
+3. and the compatibility relation’s dependence on misalignment.
+
+The P/A ontology reproduces interference entirely through **ray geometry
+and modal progression**, not through wave amplitudes.
+
