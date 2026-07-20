@@ -22,7 +22,7 @@ This creates a clean setting for analyzing the consequences of a UAH‑type actu
 
 ## The UAH Rule
 
-Assume the ontology includes an actualization rule \( \ell_{\mathrm{UAH}} \) satisfying:
+Assume the ontology includes an actualization rule $\ell_{\mathrm{UAH}}$ satisfying:
 
 - **local trigger** — depends only on Abbott’s local apparatus state,  
 - **unbounded update domain** — assigns definite values across arbitrarily distant regions, including Costello’s laboratory,  
