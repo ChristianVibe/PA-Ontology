@@ -46,6 +46,9 @@ PA-Ontology/
 │
 ├── 📄 README.md # This file
 ├── ⚙️ Contributing.txt # Guidelines for contributing
+├── ⚙️ License.txt # License information
+├── ⚙️ Intuitive_Illustration.md # An intuitive illustration of the ontology,
+|       explaining how it produces entanglement and interference.
 │
 ├── 📂 01_Formal_Assumptions/ # Formal assumptions for realist ontologies
 │ └── 00_Index.md # Index of formal assumptions
@@ -59,18 +62,42 @@ PA-Ontology/
 │ ├── 08_Postulate_8_Quantum_Interference.md
 │ ├── 09_Postulate_9_Local_Availaility_Of_Triggers.md
 │ └── 10_Postulate_9b_Weak_Mixing_No_Fine_Tuning.md
+│
 ├── 📂 02_Structural_Results/ # Nogo theorems for realist ontologies
 │ └── 01_Nogo_theorem.md
 │ ├── 02_Toy_Model_Abbott_Costello.md
 │ └── 03_Formal_Proof_Summary.md
-├── 📂 03_Code_(C#)/ # Code for structural results
+│
+├── 📂 03_Ontological_Categories/ # Ontological categories for the P/A framework
+│ └── 01_Universe.md
+│ ├── 02_Realm.md
+│ ├── 03_Temporal_Structure.md
+│ ├── 04_Modal_Time.md
+│ ├── 05_Actuality.md
+│ ├── 06_Carrier.md
+│ ├── 07_Particle.md
+│ ├── 08_Quantum.md
+│ ├── 09_Per_Carrier_Causal_Order.md
+│ ├── 10_Ray_Bundle.md
+│ ├── 11_Ray.md
+│ ├── 12_Waypoint.md
+│ ├── 13_Possibility.md
+│ ├── 14_Misalignment.md
+│ ├── 15_Compatibility_Relation.md
+│ ├── 16_Actualization_Operator.md
+│ ├── 17_Pruning_Operator.md
+│ ├── 18_Entanglement.md
+│ └── 19_Iteration.md
+│
+├── 📂 04_Code_(C#)/ # Code for structural results
 │ └── 📂 01_Double_Slit_Experiment/
 |   └── DoubleSlitExperiment.csproj
 |   └── program.cs
 │ └── 📂 02_Bells_Test/
 |   └── BellsTest.csproj
 |   └── program.cs
-├── 📂 04_Code_(Python)/ 
+│
+├── 📂 05_Code_(Python)/ 
 │ └── double_slit_experiment.py
 │ └── bells_test.py
 
