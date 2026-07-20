@@ -30,7 +30,7 @@ This postulate asserts that:
   structural constraints.
 
 In short:  
-**No controllable signal can propagate faster than v_max, but nonlocal structure may still exist.**
+**No controllable signal can propagate faster than $v_{\max}$, but nonlocal structure may still exist.**
 
 ---
 
