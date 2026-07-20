@@ -1,17 +1,27 @@
 # Postulate 4 — Empirical Conservation
+
 **ID:** post_empirical_conservation  
 **Type:** Postulate  
-**Category:** Empirical / Dynamical Constraint  
+**Category:** Empirical / Conservation
 
----
+## Formal Statement
 
-## Formal statement
+Postulate 4 (Empirical Conservation)  
+There exists a conserved quantity
 
-There exists a conserved quantity C : S → R^k such that for any transition
-s → s' produced by the transition rules in L, one has C(s) = C(s'). This
-postulate expresses the empirical fact that physical processes respect
-conservation laws. It does not specify the structure of the transition rules;
-it only restricts which transitions are physically admissible.
+$$
+C : S \rightarrow \mathbb{R}^k
+$$
+
+such that for any transition $s \rightarrow s'$ produced by the transition rules in $L$, one has
+
+$$
+C(s) = C(s').
+$$
+
+This postulate expresses the empirical fact that physical processes respect conservation laws.  
+It does not specify the structure of the transition rules; it only restricts which transitions are physically admissible.
+
 
 ---
 
