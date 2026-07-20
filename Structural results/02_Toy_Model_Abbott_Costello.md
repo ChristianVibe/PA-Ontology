@@ -46,11 +46,11 @@ Thus, the probability that Costello observes clean interference in a given run i
 
 $$(1 - p_0).$$
 
-Over \( N \) independent runs, the probability that *all* runs remain clean is:
+Over $N$ independent runs, the probability that *all* runs remain clean is:
 
 $$(1 - p_0)^N,$$
 
-which decays exponentially as \( N \to \infty \).
+which decays exponentially as $N \to \infty$.
 
 ---
 
