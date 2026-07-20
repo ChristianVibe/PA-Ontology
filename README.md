@@ -64,6 +64,7 @@ PA-Ontology/
 ├── 📂 Structural results/ # Nogo theorems for realist ontologies
 │ └── 01_Nogo_theorem.md
 │ └── 02_Toy_Model_Abbott_Costello.md
+│ └── 03_Formal_Proof_Summary.md
 
 ```
 ---
