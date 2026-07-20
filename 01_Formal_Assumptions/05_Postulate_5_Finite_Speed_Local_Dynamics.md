@@ -1,16 +1,18 @@
-# Postulate — Finite‑Speed Local Dynamics
-**ID:** post_finite_speed  
+# Postulate 5 — Finite-Speed Local Dynamics
+
+**ID:** post_finite_speed_local_dynamics  
 **Type:** Postulate  
-**Category:** Empirical / Locality  
+**Category:** Structural / Locality
 
----
+## Formal Statement
 
-## Formal statement
+Local dynamical influences capable of transmitting controllable signals propagate no faster than a finite constant
 
-Local dynamical influences capable of transmitting controllable signals
-propagate no faster than a finite constant v_max. This postulate constrains
-signaling dynamics only; it does not forbid primitive ontic dependencies or
-non‑signaling structural constraints that may be nonlocal in form.
+$$
+v_{\max} < \infty.
+$$
+
+This postulate constrains signaling dynamics only; it does not forbid primitive ontic dependencies or non‑signaling structural constraints that may be nonlocal in form.
 
 ---
 
