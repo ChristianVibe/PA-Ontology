@@ -242,14 +242,14 @@ Interference appears when no subsystem carries which‑path information.
 The detection statistics cannot be represented as a convex mixture of
 exclusive path alternatives.
 
-![Double slit without which‑path detection](DSE_NoWPD.png)
+![Double slit without which‑path detection](DSE_NoWPD.eps)
 
 ### Double Slit — With Which‑Path Detection
 When a subsystem records which‑path information, interference is removed.
 The detection statistics become a convex mixture over definite path
 alternatives.
 
-![Double slit with which‑path detection](DSE_WPD.png)
+![Double slit with which‑path detection](DSE_WPD.eps)
 
 ### Bell Test — Tsirelson‑Bounded Correlations
 A CHSH‑type experiment implemented with finite ray bundles, local
