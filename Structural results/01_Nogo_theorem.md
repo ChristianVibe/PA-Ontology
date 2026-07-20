@@ -42,17 +42,13 @@ Thus, interference is lost whenever the trigger fires in the coherence‑relevan
 
 ## Statistical Instability of Interference
 
-Let \( p_0 > 0 \) be the probability that the trigger for the UAH rule occurs within the coherence region during a single run. Then the probability that interference survives across \( N \) independent runs is at most:
+Let $p_0 > 0$ be the probability that the trigger for the UAH rule occurs within the coherence region during a single run. Then the probability that interference survives across $N$ independent runs is at most:
 
 
 
-\[
-(1 - p_0)^N,
-\]
+$$(1 - p_0)^N$$
 
-
-
-which decays exponentially as \( N \to \infty \).
+which decays exponentially as $N \to \infty$.
 
 This shows that **UAH‑type rules are statistically incompatible with the observed stability of interference**.
 
