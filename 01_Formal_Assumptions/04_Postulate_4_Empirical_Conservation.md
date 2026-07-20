@@ -4,6 +4,8 @@
 **Type:** Postulate  
 **Category:** Empirical / Conservation
 
+---
+
 ## Formal Statement
 
 There exists a conserved quantity
