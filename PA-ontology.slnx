@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Code (C#)/Bells test/BellsTest.csproj" />
-  <Project Path="Code (C#)/Double slit experiment/DoubleSlitExperiment.csproj" />
+  <Project Path="03_Code_(C#)/01_Double_Slit_Experiment/DoubleSlitExperiment.csproj" />
+  <Project Path="03_Code_(C#)/02_Bells_Test/BellsTest.csproj" />
 </Solution>
