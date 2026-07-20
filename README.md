@@ -1,5 +1,4 @@
 # Possibility/Actuality Ontology (P/A Ontology)
-*A discrete, ray‑based ontology for closed physical systems.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
