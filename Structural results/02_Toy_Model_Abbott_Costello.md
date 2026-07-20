@@ -34,7 +34,7 @@ By universality and observer‑independence, the rule’s trigger is local, but 
 
 ## Mechanism
 
-Let $$ p_0 > 0 $$ be the probability that the trigger for $$ \ell_{\mathrm{UAH}} $$ fires in Abbott’s apparatus *before* Costello’s detection.
+Let $p_0 > 0$ be the probability that the trigger for $\ell_{\mathrm{UAH}}$ fires in Abbott’s apparatus *before* Costello’s detection.
 
 Whenever this happens:
 
