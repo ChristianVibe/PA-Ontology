@@ -4,6 +4,8 @@
 **Type:** Postulate  
 **Category:** Structural / Locality
 
+---
+
 ## Formal Statement
 
 Local dynamical influences capable of transmitting controllable signals propagate no faster than a finite constant
