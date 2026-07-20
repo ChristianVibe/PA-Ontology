@@ -228,6 +228,8 @@ The Python code is meant for:
 For full‑scale, reproducible figures and high‑resolution interference/correlation curves,
 use the C# implementation, which is parallelized and optimized.
 
+---
+
 ## Results at a Glance
 
 The P/A ontology reproduces the qualitative structure of key quantum
