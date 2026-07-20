@@ -57,11 +57,3 @@ $A$ and $P$.
 - **Modal time** governs local progression within possibility.
 - **Carriers** populate both realms: they have ray bundles in $P$ and
   causal chains in $A$.
-
-### Key Quote (Appendix C)
-
-> “The universe consists of two realms: the realm of actuality $A_n$,
-> containing actualized events and their causal structure, and the realm
-> of possibility $P_n$, containing admissible modal futures encoded as
-> ray bundles and waypoints.”
-
