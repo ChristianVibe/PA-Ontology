@@ -4,6 +4,8 @@
 **Type:** Axiom  
 **Category:** Structural / Locality
 
+---
+
 ## Formal Statement
 
 No rule or trigger may reference an external observer-index or label.  
