@@ -6,7 +6,6 @@
 
 ## Formal Statement
 
-Postulate 4 (Empirical Conservation)  
 There exists a conserved quantity
 
 $$
