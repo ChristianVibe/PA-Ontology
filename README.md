@@ -61,10 +61,12 @@ PA-Ontology/
 │ └── 08_Postulate_8_Quantum_Interference.md
 │ └── 09_Postulate_9_Local_Availaility_Of_Triggers.md
 │ └── 10_Postulate_9b_Weak_Mixing_No_Fine_Tuning.md
+├── 📂 Structural results/ # Nogo theorems for realist ontologies
+│ └── 01_Nogo_theorem.md
+│ └── 02_Toy_Model_Abbott_Costello.md
+
 ```
-
 ---
-
 ## Installation & Usage
 This repository includes a Visual Studio solution (`PA-Ontology.slnx`) at the root.
 
