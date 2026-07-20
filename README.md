@@ -262,7 +262,7 @@ approaching the Tsirelson bound:
 E(a_0,b_0) &= -0.6803, \\
 E(a_0,b_1) &= -0.7130, \\
 E(a_1,b_0) &= -0.7060, \\
-E(a_1,b_1) &= \phantom{-}0.7099,
+E(a_1,b_1) &= $\phantom{-}0.7099$,
 ```
 
 
