@@ -77,6 +77,37 @@ PA-Ontology/
 ```
 ---
 
+## Purpose of the Formal Assumptions
+
+The repository includes a set of formal assumptions and empirical postulates
+that define the structural setting for the statistical no‑go theorem.  
+These assumptions are intentionally modest: they are not tied to any
+specific ontology, and they do not presuppose quantum mechanics,
+wavefunctions, collapse, or classicality.
+
+Their purpose is to articulate the **minimal structural commitments**
+that any realist ontology ought to adopt if it aims to:
+
+- describe physical systems as having ontic states,
+- respect locality in the operational sense,
+- account for finite-speed causal influence,
+- support stable, localized records,
+- reproduce interference and Bell-type correlations,
+- and avoid fine‑tuned conspiratorial suppression of admissible states.
+
+The assumptions do not impose a particular dynamical model.  
+They simply define the weakest background conditions under which
+questions about locality, signaling, records, and interference can be
+posed sharply. The statistical no‑go theorem is then derived within this
+minimal framework.
+
+These assumptions are not part of the P/A ontology itself.  
+They form a neutral structural backdrop against which the theorem is
+stated, and against which any realist ontology — including P/A —
+can be evaluated.
+
+---
+
 ## Conceptual Walkthroughs
 
 To make the ontology accessible and intuitive, the repository includes
