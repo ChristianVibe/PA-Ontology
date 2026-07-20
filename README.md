@@ -1,138 +1,94 @@
-# The P/A Ontology  
-*A Formal Modeling Framework for Actualization and Modal Progression*
+# Possibility/Actuality Ontology (P/A Ontology)
+*A discrete, ray‑based ontology for closed physical systems.*
 
-This repository accompanies the paper **“The P/A Ontology: A Structural Framework for Actualization and Modal Progression.”** It provides the formal definitions, modular components, and reference materials needed to understand and reproduce the ontology described in the manuscript.
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/Build-.NET_10-blueviolet.svg" />
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio_2026-5C2D91.svg" />
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC.svg" />
+</p>
 
-The P/A ontology is a **structural and modal framework**, not a physical theory. Its purpose is to clarify how actualization, modal futures, and causal organization can be represented in a discrete, relational system. The ontology is **agnostic** about underlying physics and is compatible with multiple interpretations.
-
-> “The ontology is not organized as a linear hierarchy of primitives, but as an interdependent network of concepts.”  
-> “Its basic entities… are defined through their mutual relations and jointly determine the structure of the framework.”
-
-Readers of the paper will find here a complete, navigable reference for all formal components of the ontology.
-
----
-
-## Purpose of This Repository
-
-### Reference for Readers of the Paper
-This repository is designed as a companion to the manuscript.  
-It provides:
-
-- the formal assumptions (axioms, postulates, definitions)  
-- the ontology’s core entities and operators  
-- structural diagrams  
-- minimal illustrative examples  
-
-Everything is organized so that reviewers and readers can easily locate the formal components referenced in the text.
-
-### Formal Specification
-The ontology is defined through a network of interrelated concepts:
-
-- carriers  
-- waypoints  
-- rays  
-- modal time  
-- events  
-- causal chains  
-- possibility structures  
-- actualization and pruning operators  
-
-These definitions are taken directly from Appendix C of the paper and presented here in modular form.
-
-### Conceptual and Structural Clarity
-The repository emphasizes:
-
-- structural neutrality  
-- interpretive flexibility  
-- modularity  
-- reproducibility  
-
-The ontology is intended as a **formal tool** for reasoning about actualization and modal progression, not as a comprehensive physical model.
+## About
+A discrete, ray‑based ontology for closed physical systems built on a distinction between actualized events and admissible futures. The model uses finite causal propagation, local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space or wavefunctions.
 
 ---
 
-## Academic Positioning
+## Theoretical Overview
+## 🔍 Theoretical Overview
 
-The P/A ontology is:
+The P/A ontology is a discrete, ray‑based framework built around two primitive carrier types—**particles** and **quanta**—each with its own causal and modal progression rules. Particles possess proper‑time evolution and extended causal chains, while quanta propagate only in modal time and participate in at most two events (emission and absorption). Together, these carriers define the ontology’s causal and modal structure.
 
-- **structural rather than foundational**  
-- **modal rather than metaphysical**  
-- **agnostic about underlying physics**  
-- **compatible with multiple dynamical assumptions**  
-- **intended for conceptual analysis and modeling**
+The framework adopts three operational commitments:
 
-Its scope is deliberately limited: it provides a formal representation of actualization and modal futures without making claims about empirical completeness or fundamental physical laws.
+- **Stable local records** — actualized events store definite, intersubjectively accessible information.  
+- **Finite‑speed causal propagation** — influence spreads locally, respecting relativistic constraints.  
+- **Modal futures encoded as ray bundles** — each carrier holds a finite set of admissible futures, ordered by modal time.
 
-This positioning follows the tradition of structural frameworks such as those developed by Khomyakov, where the emphasis is on **formal organization**, **modal structure**, and **causal consistency**, not on proposing a unified physical theory.
+Actuality consists of discrete events, each involving a finite set of carriers at a spacetime location. Possibility consists of ray bundles and waypoints that encode admissible modal futures. The universe evolves through two operators:
+
+- the **actualization operator**, which selects an admissible interaction and produces an event, and  
+- the **pruning operator**, which removes incompatible modal futures and enforces causal consistency.
+
+A structural tension arises within this space: ontologies that combine **local triggers** with **unbounded global updates** tend to make **stable interference statistically atypical**. The P/A ontology serves as a constructive witness showing that this tension can be resolved. By using finite ray bundles, local geometric rules, and event‑defined entanglement constraints, the ontology maintains **bounded update domains** while preserving interference‑like behavior.
+
+Simulations demonstrate that the framework can reproduce:
+
+- qualitative **double‑slit interference**, and  
+- **Tsirelson‑bounded correlations** in CHSH‑type tests,
+
+using only discrete carriers, modal progression, and local pruning—without wavefunctions, amplitudes, or Hilbert‑space evolution. The ontology is structural rather than foundational: it specifies how actualization and modal futures can be organized in a discrete causal system, without making claims about underlying physics or empirical completeness.
 
 ---
 
 ## Repository Structure
 
-### `/FormalAssumptions/`
-Modular Markdown files containing:
-
-- Axiom 1 — Lawlike Regularity  
-- Axiom 2 — Universal Applicability  
-- Axiom 3 — Observer Independence  
-- Postulate — Empirical Conservation  
-- Postulate — Finite‑Speed Local Dynamics  
-- Postulate — Local Stable Records  
-- Postulate — Tsirelson‑Bounded Nonlocality  
-- Postulate — Quantum Interference  
-- Postulate — Local Availability of Trigger States  
-- Subpostulate — Weak Mixing / No Fine‑Tuned Suppression  
-- Definition — Trigger  
-- Index of Formal Assumptions
-
-### `/OntologyCore/`
-Formal definitions of:
-
-- Universe  
-- Realms (Actuality and Possibility)  
-- Modal Time  
-- Carriers (Particles and Quanta)  
-- Ray Bundles  
-- Waypoints  
-- Compatibility  
-- Actualization Operator  
-- Pruning Operator  
-- Entanglement  
-- Iteration  
-
-### `/Examples/`
-Minimal illustrative code demonstrating:
-
-- modal progression  
-- pruning  
-- event actualization  
-- compatibility evaluation  
-
-These examples are pedagogical and conceptual.
+```
+PA-Ontology/
+│
+├── 📄 README.md # This file
+├── ⚙️ Contributing.txt # Guidelines for contributing
+│
+├── 📂 Formal assumptions/ # Formal assumptions for realist ontologies
+│ └── 00_Index.md # Index of formal assumptions
+│ ├── 01_Axiom_1_Lawlike_Regularity.md
+│ └── 02_Axiom_2_Universal_Applicability.md
+│ └── 03_Axiom_3_Observer_Independence.md
+│ └── 04_Postulate_4_Emperical_Conservation.md'
+│ └── 05_Postulate_5_Finite_Speed_Local_Dynamics.md
+│ └── 06_Postulate_6_Local_Stable_Records.md
+│ └── 07_Postulate_7_Tsirelson_Bounded_Nonlocality.md
+│ └── 08_Postulate_8_Quantum_Interference.md
+│ └── 09_Postulate_9_Local_Availaility_Of_Triggers.md
+│ └── 10_Postulate_9b_Weak_Mixing_No_Fine_Tuning.md
+```
 
 ---
 
-## Intended Audience
+## Installation & Usage
+This repository includes a Visual Studio solution (`PA-Ontology.slnx`) at the root.
 
-This repository is intended for:
+### 1. Clone the repository
+```bash
+git clone https://github.com/ChristianVibe/PA-Ontology.git
+```
+### 2. Open the solution
+Open PA-Ontology.slnx in:
 
-- readers of the paper  
-- peer reviewers  
-- researchers interested in modal frameworks  
-- anyone exploring structural approaches to actualization  
+- Visual Studio 2026, or
 
-It is not intended as a standalone physical model; rather, it provides the formal backbone needed to understand and evaluate the ontology presented in the manuscript.
+- VS Code with the C# Dev Kit extension.
 
----
+### 3. Build & run
+Build the solution and run the simulator project to reproduce:
 
-## Citation
+- event‑evolution dynamics,
 
-If you reference this repository in academic work, please cite the accompanying paper:
+- interference experiments,
 
-**Christian [Surname], “The P/A Ontology: A Structural Framework for Actualization and Modal Progression,” 2026.**
+- correlation tests.
 
----
+No external frameworks or environment setup required.
 
-## Contact
-
-For questions or collaboration inquiries, please use the contact information provided in the paper.
+### Reproducibility
+All simulations and figures can be reproduced by building and running the solution. The model uses only finite combinatorial structures and local update rules—no quantum libraries or Hilbert‑space machinery.
