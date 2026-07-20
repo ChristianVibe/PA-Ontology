@@ -49,7 +49,7 @@ PA-Ontology/
 ├── 📄 README.md # This file
 ├── ⚙️ Contributing.txt # Guidelines for contributing
 │
-├── 📂 Formal assumptions/ # Formal assumptions for realist ontologies
+├── 📂 01_Formal_Assumptions/ # Formal assumptions for realist ontologies
 │ └── 00_Index.md # Index of formal assumptions
 │ ├── 01_Axiom_1_Lawlike_Regularity.md
 │ └── 02_Axiom_2_Universal_Applicability.md
@@ -61,10 +61,13 @@ PA-Ontology/
 │ └── 08_Postulate_8_Quantum_Interference.md
 │ └── 09_Postulate_9_Local_Availaility_Of_Triggers.md
 │ └── 10_Postulate_9b_Weak_Mixing_No_Fine_Tuning.md
-├── 📂 Structural results/ # Nogo theorems for realist ontologies
+├── 📂 02_Structural_Results/ # Nogo theorems for realist ontologies
 │ └── 01_Nogo_theorem.md
 │ └── 02_Toy_Model_Abbott_Costello.md
 │ └── 03_Formal_Proof_Summary.md
+├── 📂 03_Code_(C#)/ # Code for structural results
+│ └── 01_Double_Slit_Experiment.md
+│ └── 02_Bells_Test.md
 
 ```
 ---

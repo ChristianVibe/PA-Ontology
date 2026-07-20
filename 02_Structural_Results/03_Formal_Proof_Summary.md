@@ -1,8 +1,9 @@
+# Formal Proof Summary: Statistical No‑Go Theorem
 **ID:** structural_formalproof_nogo  
 **Type:** Structural Result / Proof Summary  
 **Category:** Derived Constraint / Typicality  
 
-# Formal Proof Summary: Statistical No‑Go Theorem
+---
 
 This summary outlines the probabilistic structure behind the statistical no‑go theorem for Undivided Actualization. It makes explicit the weak typicality condition used to show that **trigger‑free histories are exponentially suppressed**, without introducing new physical assumptions beyond those in the main framework.
 
