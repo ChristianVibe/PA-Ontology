@@ -1,54 +1,65 @@
 # Axiom 3 — Observer Independence
+
 **ID:** ax_observer_independence  
 **Type:** Axiom  
-**Category:** Structural / Locality  
+**Category:** Structural / Locality
+
+## Formal Statement
+
+No rule or trigger may reference an external observer-index or label.  
+All triggers must be predicates on local ontic variables in a finite neighborhood
+
+$$
+\bigcup_{y:\, d(x,y) \le r} S_y.
+$$
 
 ---
 
-## Formal statement
+## Definition (Trigger)
 
-No rule or trigger may reference an external observer index or label. All
-triggers must be predicates on local ontic variables in a finite neighborhood:
+A trigger for a rule $\ell$ is a Boolean predicate
 
-    { S_y : d(x, y) ≤ r }
+$$
+T_\ell : S_{U_\ell} \to \{0,1\},
+$$
 
-Triggers cannot depend on observer-relative or epistemic quantities. They cannot
-reference global constraints or boundary conditions. They must be strictly local
-predicates defined on the ontic state of the subsystem on which the rule acts.
+defined on the local state space of the subsystem $U_\ell$ on which $\ell$ acts.  
+Triggers may depend only on the configuration in $S_{U_\ell}$ and never on observer-relative or epistemic quantities.  
+They cannot reference global constraints or boundary conditions; they are strictly local predicates.
 
 ---
 
 ## Interpretation
 
-This axiom states that:
+Axiom 3 asserts that the ontology’s dynamics are entirely observer-independent.  
+No observer, label, epistemic state, or external indexing may influence the activation of rules.  
+All triggering conditions arise solely from the ontic configuration within a finite neighborhood.  
+This ensures that:
 
-- The ontology contains **no observer-dependent dynamics**.
-- Transition rules and triggers depend only on **ontic variables**, never on
-  knowledge, measurement choices, or external labels.
-- All triggering conditions are **local**, defined within a finite neighborhood.
-- The ontology is **observer-neutral**: observers do not appear in the laws.
+- the dynamics are local,  
+- the rules depend only on the actual ontic state,  
+- no epistemic or observer-relative information enters the evolution,  
+- the ontology behaves as a self-contained physical system rather than a simulation dependent on an external vantage point.
 
-In short:  
-**Observers do not appear in the dynamics. Only ontic variables do.**
+The axiom enforces that only ontic variables participate in the dynamics.
 
 ---
 
-## Ontological role
+## Ontological Role
 
-Observer Independence ensures:
+### 1. Enforces Locality of Rule Activation
 
-- The ontology is **fully objective** and does not rely on epistemic inputs.
-- Measurement interactions are treated as **ordinary physical interactions**,
-  not special observer-driven events.
-- Triggers remain **local**, supporting finite-speed dynamics and stable records.
-- The formalism avoids hidden observer indices that would violate locality or
-  universality.
+By restricting triggers to finite neighborhoods, the axiom guarantees that rule activations propagate information at finite speed.  
+This supports **Postulate 5 (Finite-Speed Local Dynamics)** and prevents nonlocal or instantaneous influences.
 
-This axiom is essential for maintaining a clean separation between:
+### 2. Prevents Epistemic Contamination
 
-- **ontic structure** (what exists), and  
-- **operational structure** (what is measured).
+Rules cannot depend on what an observer knows, believes, or labels.  
+This preserves the ontic nature of the ontology and prevents observer-dependent or operational interpretations from entering the dynamics.
 
-It guarantees that the ontology does not smuggle in observer-dependent
-information through the back door.
+### 3. Maintains Structural Autonomy
 
+The ontology evolves according to its own internal state, not external bookkeeping or global constraints.  
+This autonomy is essential for **Postulate 6 (Local Stable Records)** and for the coherence of the rule-based framework.
+
+Axiom 3 thus secures the locality, neutrality, and autonomy of the ontology’s dynamical structure.
