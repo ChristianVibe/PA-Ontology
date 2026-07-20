@@ -13,7 +13,6 @@ A discrete, ray‑based ontology for closed physical systems built on a distinct
 
 ---
 
-## Theoretical Overview
 ## 🔍 Theoretical Overview
 
 The P/A ontology is a discrete, ray‑based framework built around two primitive carrier types—**particles** and **quanta**—each with its own causal and modal progression rules. Particles possess proper‑time evolution and extended causal chains, while quanta propagate only in modal time and participate in at most two events (emission and absorption). Together, these carriers define the ontology’s causal and modal structure.
@@ -77,6 +76,41 @@ PA-Ontology/
 
 ```
 ---
+
+## Conceptual Walkthroughs
+
+To make the ontology accessible and intuitive, the repository includes
+a set of conceptual walkthroughs of canonical quantum experiments:
+
+- Double slit experiment  
+- Bell/CHSH test
+- Mach–Zehnder interferometer  
+- Page-Geilker experiment
+- Stern–Gerlach experiment  
+- Delayed-choice quantum eraser  
+- Schrödinger’s cat  
+- Wigner’s friend  
+
+These walkthroughs are not part of the formal paper. They are provided
+to illustrate how the P/A ontology accounts for the qualitative structure
+of quantum phenomena using only ray bundles, local compatibility,
+pruning, and actualization.
+
+### Extended Walkthrough: The Hydrogen Atom
+
+In addition to the experiment-level walkthroughs, the repository also
+includes a full-length conceptual analysis of the hydrogen atom.  
+This walkthrough is structurally deeper than the others and demonstrates
+how discrete progression, curvature, and intersection-based actualization
+give rise to the familiar $1/n^2$	 spectrum without wavefunctions or
+continuous potentials.
+
+It is included here in full to establish conceptual priority and to
+provide a reference for future work. Like the other walkthroughs, it is
+not part of the formal paper.
+
+---
+
 ## Installation & Usage
 This repository includes a Visual Studio solution (`PA-Ontology.slnx`) at the root.
 
