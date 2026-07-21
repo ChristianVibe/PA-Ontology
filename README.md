@@ -307,3 +307,14 @@ ontology are computationally realizable and capable of reproducing
 nontrivial empirical signatures — interference, which‑path suppression,
 and Tsirelson‑bounded nonlocal correlations — without wavefunctions or
 Hilbert‑space evolution.
+
+## Contact information
+
+If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
+
+**Christian Vibe Scheller**  
+Kongens Lyngby, Denmark
+
+- Email: [paontology@gmail.com](mailto:paontology@gmail.com)
+- GitHub Issues: https://github.com/ChristianVibe/PA-Ontology/issues
+- GitHub Discussions: https://github.com/ChristianVibe/PA-Ontology/discussions
