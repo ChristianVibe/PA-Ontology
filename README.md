@@ -174,7 +174,7 @@ The full technical development is organized into three folders:
 
 📂 [03_Ontological_Categories](./03_Ontological_Categories) — formal definition of carriers, events, ray bundles, and operators
 
-📂 [04_Code (C#)](./04_Code_(%23)) — Code for the simulations written in C#
+📂 [04_Code (C#)](./04_Code_(C%23)) — Code for the simulations written in C#
 
 📂 [05_Code_(Python)](./05_Code_(Python)) — Code for the simulations written in Python (conceptual only)
 
