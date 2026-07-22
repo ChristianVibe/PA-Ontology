@@ -10,13 +10,15 @@
 
 ## Overview
 
-This repository presents a three‑layer research program:
+This repository presents a four‑layer research program:
 
-1. Minimal realist axioms and postulates — modest structural commitments any realist ontology ought to satisfy.
+- **Minimal realist axioms and postulates** — modest structural commitments any ontology that claims to be realist is structurally required to satisfy.
 
-2. A structural no‑go theorem — showing that certain actualization rules are statistically incompatible with stable interference.
+- **A structural no‑go theorem** — showing that locally triggered, unbounded actualization rules are statistically incompatible with stable interference.
 
-3. The P/A ontology — a constructive witness demonstrating that the axiomatic space is non‑empty and capable of reproducing interference and Tsirelson‑bounded correlations.
+- **The P/A ontology** — a constructive witness demonstrating that the axiomatic space is non‑empty and capable of reproducing interference and Tsirelson‑bounded correlations.
+
+- **Simulation results** — empirical demonstrations that the ontology’s structural commitments are computationally realizable and reproduce interference, which‑path suppression, and Tsirelson‑bounded nonlocal correlations.
 
 Together, these components define a coherent framework for discrete, event‑driven physical ontology.
 
