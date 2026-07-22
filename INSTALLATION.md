@@ -20,9 +20,9 @@ You can open this solution using:
 
 - **Visual Studio 2022 or later**
 
--- File → Open → Project/Solution
+  - File → Open → Project/Solution
 
--- Select PA-Ontology.slnx
+  - Select PA-Ontology.slnx
 
 - **Visual Studio Code**
 
