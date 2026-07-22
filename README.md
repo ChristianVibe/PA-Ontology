@@ -155,20 +155,7 @@ E(a_1,b_0) = -0.7060
 E(a_1,b_1) =  0.7099
 ```
 
-giving a CHSH value: $S = 2.8091$, which is within the Tsirelson bound of $2\sqrt{2} \approx 2.8284$
-.
-
-### Summary
-
-These results demonstrate that the P/A ontology:
-
-- produces interference when no which‑path information is present,
-
-- suppresses interference when which‑path detection occurs, and
-
-- yields Tsirelson‑bounded nonlocal correlations in Bell‑type tests,
-
-all using discrete carriers, modal progression, and local pruning — without wavefunctions, amplitudes, or Hilbert‑space evolution.
+giving a CHSH value: $S = 2.8091$, which is within the Tsirelson bound of $2\sqrt{2} \approx 2.8284$.
 
 ---
 
