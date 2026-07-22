@@ -6,6 +6,9 @@ The P/A ontology revisits the same structural question — why does hydrogen exh
 
 The purpose of this walkthrough is conceptual clarity rather than numerical prediction. It shows how the hydrogen spectrum — and the associated orbital radii — arise naturally from the internal mechanics of P/A, without invoking wavefunctions, continuous fields, or differential equations.
 
+Notably, the hydrogen spectrum is derived without assuming Coulomb’s law or any continuous electromagnetic potential. The familiar $1/𝑛^2$
+ structure arises entirely from modal‑geodesic geometry and misalignment conservation.
+
 ---
 
 ## Ontological Ingredients
