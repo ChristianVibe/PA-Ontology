@@ -108,16 +108,24 @@ $𝐴$
 - 𝒫 — the **pruning operator**, which removes incompatible futures from $𝑃$ and enforces global causal consistency.
 
 ### Structural Resolution
-UAH‑type rules destabilize interference.
-The P/A ontology resolves this tension by:
+UAH‑type rules destabilize interference because they allow locally triggered updates with **unbounded** global reach.
+The P/A ontology avoids this by enforcing **strict locality for actualization** and **entanglement‑bounded reach for pruning**:
 
-- using finite ray bundles,
+- 𝒜 **acts only locally**, on the finite set of carriers participating in an admissible interaction at a specific spacetime coordinate.
 
-- enforcing local geometric constraints,
+- 𝒫 **acts only on the involved particles and their entangled partners**, never on the full modal domain.
 
-- defining entanglement through shared events, and
+This division of labor ensures that:
 
-- maintaining bounded update domains.
+- actualization events remain **geometrically local**,
+
+- pruning remains **causally bounded**,
+
+- update domains never become unbounded,
+
+- and interference remains **stable** under repeated trials.
+
+Together, these constraints provide the structural mechanism by which the ontology preserves interference while respecting locality and avoiding UAH‑type failures.
 
 ### Empirical Behavior
 Simulations show that the framework reproduces:
