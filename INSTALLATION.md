@@ -64,6 +64,8 @@ All simulation outputs will appear in the console window.
 
 All simulations can be reproduced by building and running the solution. The model uses only finite combinatorial structures and local update rules—no quantum libraries or Hilbert‑space machinery.
 
+---
+
 ## Python Usage (Lightweight Version)
 
 The repository also includes Python ports of the core simulations (double‑slit and Bell/CHSH). These versions are designed for accessibility and readability, not high‑performance execution.
@@ -88,7 +90,7 @@ Python experiments are located under:
 
 ```
 05_Code_(Python)/
-`´´
+```
 
 Example:
 
