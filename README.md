@@ -132,18 +132,18 @@ Together, these constraints provide the structural mechanism by which the ontolo
 ## Simulation Results
 The P/A ontology reproduces the qualitative structure of key quantum phenomena using only ray bundles, local compatibility, pruning, and actualization. These simulations demonstrate that the ontology’s structural commitments are computationally realizable and capable of producing nontrivial empirical signatures without wavefunctions or Hilbert‑space evolution.
 
-- **Double Slit — No Which‑Path Detection**
+### Double Slit — No Which‑Path Detection
 Interference appears when no subsystem carries which‑path information.
 The detection statistics cannot be represented as a convex mixture of exclusive path alternatives.
 ![Double slit without which‑path detection](DSE_42.png)
 
 
-- **Double Slit — With Which‑Path Detection**
+### Double Slit — With Which‑Path Detection
 When a subsystem records which‑path information, interference is removed.
 The detection statistics become a convex mixture over definite path alternatives.
 ![Double slit with which‑path detection](DSE_WPD_42.png)
 
-- **Bell Test — Tsirelson‑Bounded Correlations**
+### Bell Test — Tsirelson‑Bounded Correlations
 A CHSH‑type experiment implemented with finite ray bundles, local actualization, and sparse conservation‑driven pruning yields correlations approaching the Tsirelson bound:
 ```code
 E(a_0,b_0) = -0.6803
