@@ -101,11 +101,11 @@ Actuality and possibility are represented by two structural sets:
 
 The dynamics of the ontology are governed by two operators:
 
-- $\mathcal{A}$ — the **actualization operator**, which selects an admissible interaction and produces a new event in 
+- 𝒜 — the **actualization operator**, which selects an admissible interaction and produces a new event in 
 $𝐴$
 .
 
-- $\mathcal{P}$ — the **pruning operator**, which removes incompatible futures from $𝑃$ and enforces global causal consistency.
+- 𝒫 — the **pruning operator**, which removes incompatible futures from $𝑃$ and enforces global causal consistency.
 
 ### Structural Resolution
 UAH‑type rules destabilize interference.
