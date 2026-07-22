@@ -1,7 +1,7 @@
 # Contributing
 
 This repository accompanies the paper  
-**“The P/A Ontology: A Structural Framework for Actualization and Modal Progression.”**
+**“TA Statistical No-Go Theorem for Locally Triggered Global Actualization”**
 
 It is intended primarily as a reference site for readers and reviewers.  
 As such, contributions are limited to:
@@ -14,4 +14,12 @@ If you notice an issue of this kind, you are welcome to open an issue or submit 
 
 Substantive extensions, new modules, or interpretive additions are not accepted, as the ontology is defined by the paper itself.
 
-For questions related to the manuscript, please use the contact information provided in the paper.
+For questions related to the manuscript, please use the following links:
+
+**Christian Vibe Scheller**  
+Kongens Lyngby, Denmark
+
+- Email: [paontology@gmail.com](mailto:paontology@gmail.com)
+- GitHub Issues: https://github.com/ChristianVibe/PA-Ontology/issues
+- GitHub Discussions: https://github.com/ChristianVibe/PA-Ontology/discussions
+
