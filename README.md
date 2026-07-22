@@ -1,4 +1,14 @@
-# Overview
+# Possibility/Actuality Ontology (P/A Ontology)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/Build-.NET_10-blueviolet.svg" />
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio_2026-5C2D91.svg" />
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC.svg" />
+  <img src="https://img.shields.io/badge/Python-3.12-yellow.svg" />
+</p>
+
+## Overview
 
 This repository presents a three‑layer research program:
 
@@ -12,7 +22,7 @@ Together, these components define a coherent framework for discrete, event‑dri
 
 ---
 
-# Executive Summary
+## Executive Summary
 
 The P/A ontology is a discrete, ray‑based model for closed physical systems built on a distinction between actualized events and admissible futures. It uses finite causal propagation, stable local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space, wavefunctions, or amplitudes. The ontology offers a geometric, event‑driven alternative to standard quantum ontology while preserving empirical predictions and avoiding nonlocal influences.
 
@@ -20,7 +30,7 @@ For a gentle, non‑technical introduction, see the [Gentle_Introduction](Gentle
 
 ---
 
-# Minimal Realist Axioms and Postulates
+## Minimal Realist Axioms and Postulates
 The repository begins with a set of minimal realist axioms and postulates. These define the structural space of ontologies capable of supporting locality, finite‑speed causal influence, stable records, interference, and Tsirelson‑bounded correlations. They do not presuppose quantum mechanics, wavefunctions, collapse, classicality, or any specific interpretation.
 
 The full list is available in [01_Formal_Assumptions](01_Formal_Assumptions).
@@ -51,7 +61,7 @@ They are not tied to the P/A ontology; they define the structural landscape with
 
 ---
 
-# Structural No‑Go Theorem
+## Structural No‑Go Theorem
 A central structural result shows that certain actualization rules are statistically incompatible with stable interference. The full derivation is available in [02_Structural_Results](02_Structural_Results).
 
 > **Main Theorem (Statistical No‑Go for Undivided Actualization)**
@@ -71,10 +81,10 @@ locally triggered, unbounded global actualization rules cannot coexist with stab
 
 ---
 
-# The P/A Ontology (Constructive Witness)
+## The P/A Ontology (Constructive Witness)
 The P/A ontology is a constructive witness showing that the axiomatic space is not empty. It satisfies all axioms and postulates while avoiding UAH entirely.
 
-## Theoretical Overview
+### Theoretical Overview
 The ontology is built from two primitive **carrier** types:
 
 - **Particles** — proper‑time evolution, extended causal chains.
@@ -90,7 +100,7 @@ The universe evolves through:
 
 - a **pruning operator** (removes incompatible futures).
 
-# Structural Resolution
+### Structural Resolution
 UAH‑type rules destabilize interference.
 The P/A ontology resolves this tension by:
 
@@ -102,7 +112,7 @@ The P/A ontology resolves this tension by:
 
 - maintaining bounded update domains.
 
-# Empirical Behavior
+### Empirical Behavior
 Simulations show that the framework reproduces:
 
 - qualitative double‑slit interference,
@@ -113,7 +123,7 @@ using only discrete carriers, modal progression, and local pruning — without w
 
 ---
 
-# Simulation Results
+## Simulation Results
 The P/A ontology reproduces the qualitative structure of key quantum phenomena using only ray bundles, local compatibility, pruning, and actualization. These simulations demonstrate that the ontology’s structural commitments are computationally realizable and capable of producing nontrivial empirical signatures without wavefunctions or Hilbert‑space evolution.
 
 - **Double Slit — No Which‑Path Detection**
@@ -143,7 +153,7 @@ $$
 which is within the Tsirelson bound of $2\sqrt{2} \approx 2.8284$
 .
 
-## Summary
+### Summary
 
 These results demonstrate that the P/A ontology:
 
@@ -157,13 +167,13 @@ all using discrete carriers, modal progression, and local pruning — without wa
 
 ---
 
-# Gentle Introduction
+## Gentle Introduction
 For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see the
 [Gentle_Introduction](Gentle_Introduction.md).
 
 ---
 
-# Folder Structure
+## Folder Structure
 The full technical development is organized into three folders:
 
 ```
@@ -176,6 +186,7 @@ The full technical development is organized into three folders:
 
 ---
 
+## Contact
 If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
 
 **Christian Vibe Scheller**  
