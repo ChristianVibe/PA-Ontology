@@ -1,316 +1,180 @@
-# Possibility/Actuality Ontology (P/A Ontology)
+# Overview
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img src="https://img.shields.io/badge/Build-.NET_10-blueviolet.svg" />
-  <img src="https://img.shields.io/badge/IDE-Visual_Studio_2026-5C2D91.svg" />
-  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC.svg" />
-  <img src="https://img.shields.io/badge/Python-3.12-yellow.svg" />
-</p>
+This repository presents a three‑layer research program:
 
-## Executive Summary
-A discrete, ray‑based ontology for closed physical systems built on a distinction between actualized events and admissible futures. The model uses finite causal propagation, local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space or wavefunctions. It offers a geometric, event‑driven alternative to standard quantum ontology, preserving empirical predictions while avoiding nonlocal influences and heavy formal commitments.
+1. Minimal realist axioms and postulates — modest structural commitments any realist ontology ought to satisfy.
 
-**For a gentle, non‑technical introduction to the ontology’s core ideas, see the [Gentle Introduction](./gentle_introduction.md).**
+2. A structural no‑go theorem — showing that certain actualization rules are statistically incompatible with stable interference.
+
+3. The P/A ontology — a constructive witness demonstrating that the axiomatic space is non‑empty and capable of reproducing interference and Tsirelson‑bounded correlations.
+
+Together, these components define a coherent framework for discrete, event‑driven physical ontology.
 
 ---
 
-## 🔍 Theoretical Overview
+# Executive Summary
 
-The P/A ontology is a discrete, ray‑based framework built around two primitive carrier types—**particles** and **quanta**—each with its own causal and modal progression rules. Particles possess proper‑time evolution and extended causal chains, while quanta propagate only in modal time and participate in at most two events (emission and absorption). Together, these carriers define the ontology’s causal and modal structure.
+The P/A ontology is a discrete, ray‑based model for closed physical systems built on a distinction between actualized events and admissible futures. It uses finite causal propagation, stable local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space, wavefunctions, or amplitudes. The ontology offers a geometric, event‑driven alternative to standard quantum ontology while preserving empirical predictions and avoiding nonlocal influences.
 
-The framework adopts three operational commitments:
-
-- **Stable local records** — actualized events store definite, intersubjectively accessible information.  
-- **Finite‑speed causal propagation** — influence spreads locally, respecting relativistic constraints.  
-- **Modal futures encoded as ray bundles** — each carrier holds a finite set of admissible futures, ordered by modal time.
-
-Actuality consists of discrete events, each involving a finite set of carriers at a spacetime location. Possibility consists of ray bundles and waypoints that encode admissible modal futures. The universe evolves through two operators:
-
-- the **actualization operator**, which selects an admissible interaction and produces an event, and  
-- the **pruning operator**, which removes incompatible modal futures and enforces causal consistency.
-
-A structural tension arises within this space: ontologies that combine **local triggers** with **unbounded global updates** tend to make **stable interference statistically atypical**. The P/A ontology serves as a constructive witness showing that this tension can be resolved. By using finite ray bundles, local geometric rules, and event‑defined entanglement constraints, the ontology maintains **bounded update domains** while preserving interference‑like behavior.
-
-Simulations demonstrate that the framework can reproduce:
-
-- qualitative **double‑slit interference**, and  
-- **Tsirelson‑bounded correlations** in CHSH‑type tests,
-
-using only discrete carriers, modal progression, and local pruning—without wavefunctions, amplitudes, or Hilbert‑space evolution. The ontology is structural rather than foundational: it specifies how actualization and modal futures can be organized in a discrete causal system, without making claims about underlying physics or empirical completeness.
+For a gentle, non‑technical introduction, see the [Gentle_Introduction](Gentle_Introduction.md).
 
 ---
 
-## Repository Structure
+# Minimal Realist Axioms and Postulates
+The repository begins with a set of minimal realist axioms and postulates. These define the structural space of ontologies capable of supporting locality, finite‑speed causal influence, stable records, interference, and Tsirelson‑bounded correlations. They do not presuppose quantum mechanics, wavefunctions, collapse, classicality, or any specific interpretation.
 
-```
-PA-Ontology/
-│
-├── 📄 README.md # This file
-├── ⚙️ Contributing.txt # Guidelines for contributing
-├── ⚙️ License.txt # License information
-├── ⚙️ Intuitive_Illustration.md # An intuitive illustration of the ontology,
-|       explaining how it produces entanglement and interference.
-│
-├── 📂 01_Formal_Assumptions/ # Formal assumptions for realist ontologies
-│ └── 00_Index.md # Index of formal assumptions
-│ ├── 01_Axiom_1_Lawlike_Regularity.md
-│ ├── 02_Axiom_2_Universal_Applicability.md
-│ ├── 03_Axiom_3_Observer_Independence.md
-│ ├── 04_Postulate_4_Emperical_Conservation.md'
-│ ├── 05_Postulate_5_Finite_Speed_Local_Dynamics.md
-│ ├── 06_Postulate_6_Local_Stable_Records.md
-│ ├── 07_Postulate_7_Tsirelson_Bounded_Nonlocality.md
-│ ├── 08_Postulate_8_Quantum_Interference.md
-│ ├── 09_Postulate_9_Local_Availaility_Of_Triggers.md
-│ └── 10_Postulate_9b_Weak_Mixing_No_Fine_Tuning.md
-│
-├── 📂 02_Structural_Results/ # Nogo theorems for realist ontologies
-│ └── 01_Nogo_theorem.md
-│ ├── 02_Toy_Model_Abbott_Costello.md
-│ └── 03_Formal_Proof_Summary.md
-│
-├── 📂 03_Ontological_Categories/ # Ontological categories for the P/A framework
-│ └── 01_Universe.md
-│ ├── 02_Realm.md
-│ ├── 03_Temporal_Structure.md
-│ ├── 04_Modal_Time.md
-│ ├── 05_Actuality.md
-│ ├── 06_Carrier.md
-│ ├── 07_Particle.md
-│ ├── 08_Quantum.md
-│ ├── 09_Per_Carrier_Causal_Order.md
-│ ├── 10_Ray_Bundle.md
-│ ├── 11_Ray.md
-│ ├── 12_Waypoint.md
-│ ├── 13_Possibility.md
-│ ├── 14_Misalignment.md
-│ ├── 15_Compatibility_Relation.md
-│ ├── 16_Actualization_Operator.md
-│ ├── 17_Pruning_Operator.md
-│ ├── 18_Entanglement.md
-│ └── 19_Iteration.md
-│
-├── 📂 04_Code_(C#)/ # Code for structural results
-│ └── 📂 01_Double_Slit_Experiment/
-|   └── DoubleSlitExperiment.csproj
-|   └── program.cs
-│ └── 📂 02_Bells_Test/
-|   └── BellsTest.csproj
-|   └── program.cs
-│
-├── 📂 05_Code_(Python)/ 
-│ └── double_slit_experiment.py
-│ └── bells_test.py
+The full list is available in [01_Formal_Assumptions](01_Formal_Assumptions).
 
-```
----
+**Axioms**
+* Lawlike Regularity
 
-## Purpose of the Formal Assumptions
+* Universal Applicability
 
-The repository includes a set of formal assumptions and empirical postulates
-that define the structural setting for the statistical no‑go theorem.  
-These assumptions are intentionally modest: they are not tied to any
-specific ontology, and they do not presuppose quantum mechanics,
-wavefunctions, collapse, or classicality.
+* Observer Independence
 
-Their purpose is to articulate the **minimal structural commitments**
-that any realist ontology ought to adopt if it aims to:
+**Postulates**
+* Empirical Conservation
 
-- describe physical systems as having ontic states,
-- respect locality in the operational sense,
-- account for finite-speed causal influence,
-- support stable, localized records,
-- reproduce interference and Bell-type correlations,
-- and avoid fine‑tuned conspiratorial suppression of admissible states.
+* Finite‑Speed Local Dynamics
 
-The assumptions do not impose a particular dynamical model.  
-They simply define the weakest background conditions under which
-questions about locality, signaling, records, and interference can be
-posed sharply. The statistical no‑go theorem is then derived within this
-minimal framework.
+* Local Stable Records
 
-These assumptions are not part of the P/A ontology itself.  
-They form a neutral structural backdrop against which the theorem is
-stated, and against which any realist ontology — including P/A —
-can be evaluated.
+* Tsirelson‑Bounded Nonlocality
+
+* Quantum Interference
+
+* Local Availability of Triggers  
+* Weak Mixing / No Fine‑Tuning
+
+These assumptions define the minimal realist backdrop.
+They are not tied to the P/A ontology; they define the structural landscape within which any ontology can be evaluated.
 
 ---
 
-## Conceptual Walkthroughs
+# Structural No‑Go Theorem
+A central structural result shows that certain actualization rules are statistically incompatible with stable interference. The full derivation is available in [02_Structural_Results](02_Structural_Results).
 
-To make the ontology accessible and intuitive, the repository includes
-a set of conceptual walkthroughs of canonical quantum experiments:
+> **Main Theorem (Statistical No‑Go for Undivided Actualization)**
+Let the ontology satisfy the Axioms and Postulates.
+Assume the Undivided Actualization Hypothesis (UAH): that there exists at least one actualization rule whose trigger is local but whose update domain is unbounded
+> **Theorem.**  
+Under these assumptions, there exists 
+$p_0 > 0$
+ such that the probability that interference persists across 
+$N$
+ independent runs of an interference experiment is at most
+$$(1 - p_{0})^{N}$$.
+Consequently, UAH‑type rules are statistically incompatible with indefinite repeatability of interference, except on a set of measure‑zero histories in the induced probability measure.
 
-- Double slit experiment  
-- Bell/CHSH test
-- Mach–Zehnder interferometer  
-- Page-Geilker experiment
-- Stern–Gerlach experiment  
-- Delayed-choice quantum eraser  
-- Schrödinger’s cat  
-- Wigner’s friend  
-
-These walkthroughs are not part of the formal paper. They are provided
-to illustrate how the P/A ontology accounts for the qualitative structure
-of quantum phenomena using only ray bundles, local compatibility,
-pruning, and actualization.
-
-### Extended Walkthrough: The Hydrogen Atom
-
-In addition to the experiment-level walkthroughs, the repository also
-includes a full-length conceptual analysis of the hydrogen atom.  
-This walkthrough is structurally deeper than the others and demonstrates
-how discrete progression, curvature, and intersection-based actualization
-give rise to the familiar $1/n^2$	 spectrum without wavefunctions or
-continuous potentials.
-
-It is included here in full to establish conceptual priority and to
-provide a reference for future work. Like the other walkthroughs, it is
-not part of the formal paper.
+This establishes a structural constraint:
+locally triggered, unbounded global actualization rules cannot coexist with stable interference.
 
 ---
 
-## Installation & Usage
-This repository includes a Visual Studio solution (`PA-Ontology.slnx`) at the root.
+# The P/A Ontology (Constructive Witness)
+The P/A ontology is a constructive witness showing that the axiomatic space is not empty. It satisfies all axioms and postulates while avoiding UAH entirely.
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/ChristianVibe/PA-Ontology.git
-```
-### 2. Open the solution
-Open PA-Ontology.slnx in:
+## Theoretical Overview
+The ontology is built from two primitive **carrier** types:
 
-- Visual Studio 2026, or
+- **Particles** — proper‑time evolution, extended causal chains.
 
-- VS Code with the C# Dev Kit extension.
+- **Quanta** — modal‑time propagation, at most two events (emission and absorption).
 
-### 3. Build & run
-Build the solution and run the simulator project to reproduce:
+**Actuality** consists of discrete events involving finite sets of carriers.
+**Possibility** consists of ray bundles encoding admissible modal futures.
 
-- event‑evolution dynamics,
+The universe evolves through:
 
-- interference experiments,
+- an **actualization operator** (selects an admissible interaction), and
 
-- correlation tests.
+- a **pruning operator** (removes incompatible futures).
 
-No external frameworks or environment setup required.
+# Structural Resolution
+UAH‑type rules destabilize interference.
+The P/A ontology resolves this tension by:
 
-### Reproducibility
-All simulations and figures can be reproduced by building and running the solution. The model uses only finite combinatorial structures and local update rules—no quantum libraries or Hilbert‑space machinery.
+- using finite ray bundles,
 
-## Python Usage (Lightweight Version)
+- enforcing local geometric constraints,
 
-This repository also includes Python ports of the core simulations (double‑slit experiment and Bell/CHSH test).  
-These versions are designed for **accessibility and readability**, not for high‑performance execution.
+- defining entanglement through shared events, and
 
-### 1. Requirements
-- Python 3.12+
-- NumPy  
-- (Optional) Matplotlib for plotting
+- maintaining bounded update domains.
 
-Install dependencies:
-```bash
-pip install numpy matplotlib
-```
+# Empirical Behavior
+Simulations show that the framework reproduces:
 
-### 2. Run the Python simulations
-Each Python experiment is located under:
+- qualitative double‑slit interference,
 
-```
-04_Code_(Python)/
-```
-Run, for example, the Bell test:
+- Tsirelson‑bounded correlations in CHSH‑type tests,
 
-```bash
-python bells_test.py
-```
-### 3. Important performance note
-The Python versions are not optimized and intentionally avoid:
-
-- parallelization,
-- Numba/JIT acceleration,
-- vectorized NumPy kernels,
-- GPU execution.
-
-As a result, full‑scale simulations (e.g., 10,000 trials × 10,000 rays) are not feasible in pure Python.
-
-Default parameters are intentionally small:
-
-```
-TRIALS = 100
-NUMBER_OF_RAYS = 1000
-```
-These values demonstrate the algorithmic structure but will not reach Tsirelson’s bound without increasing ray density and adding performance optimizations.
-
-### 4. Purpose of the Python version
-The Python code is meant for:
-
-- understanding the ontology’s local update rules,
-
-- experimenting with ray bundles,
-
-- visualizing small‑scale behavior,
-
-- exploring the Bell/CHSH logic interactively.
-
-For full‑scale, reproducible figures and high‑resolution interference/correlation curves,
-use the C# implementation, which is parallelized and optimized.
+using only discrete carriers, modal progression, and local pruning — without wavefunctions or Hilbert‑space evolution.
 
 ---
 
-## Results at a Glance
+# Simulation Results
+The P/A ontology reproduces the qualitative structure of key quantum phenomena using only ray bundles, local compatibility, pruning, and actualization. These simulations demonstrate that the ontology’s structural commitments are computationally realizable and capable of producing nontrivial empirical signatures without wavefunctions or Hilbert‑space evolution.
 
-The P/A ontology reproduces the qualitative structure of key quantum
-phenomena using only ray bundles, local compatibility, pruning, and
-actualization. The following plots and values summarize the core
-structural demonstrations.
-
-### Double Slit — No Which‑Path Detection
+- **Double Slit — No Which‑Path Detection**
 Interference appears when no subsystem carries which‑path information.
-The detection statistics cannot be represented as a convex mixture of
-exclusive path alternatives.
-
+The detection statistics cannot be represented as a convex mixture of exclusive path alternatives.
 ![Double slit without which‑path detection](DSE_42.png)
 
-### Double Slit — With Which‑Path Detection
-When a subsystem records which‑path information, interference is removed.
-The detection statistics become a convex mixture over definite path
-alternatives.
 
+- **Double Slit — With Which‑Path Detection**
+When a subsystem records which‑path information, interference is removed.
+The detection statistics become a convex mixture over definite path alternatives.
 ![Double slit with which‑path detection](DSE_WPD_42.png)
 
-### Bell Test — Tsirelson‑Bounded Correlations
-A CHSH‑type experiment implemented with finite ray bundles, local
-actualization, and sparse conservation‑driven pruning yields correlations
-approaching the Tsirelson bound:
-
-
-
+- **Bell Test — Tsirelson‑Bounded Correlations**
+A CHSH‑type experiment implemented with finite ray bundles, local actualization, and sparse conservation‑driven pruning yields correlations approaching the Tsirelson bound:
+```code
+E(a_0,b_0) = -0.6803
+E(a_0,b_1) = -0.7130
+E(a_1,b_0) = -0.7060
+E(a_1,b_1) =  0.7099
 ```
-E(a_0,b_0) &= -0.6803, \\
-E(a_0,b_1) &= -0.7130, \\
-E(a_1,b_0) &= -0.7060, \\
-E(a_1,b_1) &=  0.7099,
-```
-
-
 
 giving a CHSH value:
+$$
+S = 2.8091,
+$$
+which is within the Tsirelson bound of $2\sqrt{2} \approx 2.8284$
+.
 
-$$S = 2.8091$$
+## Summary
 
+These results demonstrate that the P/A ontology:
 
+- produces interference when no which‑path information is present,
 
-in close agreement with the Tsirelson limit $2\sqrt{2} \approx 2.828$.
+- suppresses interference when which‑path detection occurs, and
 
-These results demonstrate that the structural commitments of the P/A
-ontology are computationally realizable and capable of reproducing
-nontrivial empirical signatures — interference, which‑path suppression,
-and Tsirelson‑bounded nonlocal correlations — without wavefunctions or
-Hilbert‑space evolution.
+- yields Tsirelson‑bounded nonlocal correlations in Bell‑type tests,
 
-## Contact information
+all using discrete carriers, modal progression, and local pruning — without wavefunctions, amplitudes, or Hilbert‑space evolution.
+
+---
+
+# Gentle Introduction
+For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see the
+[Gentle_Introduction](Gentle_Introduction.md).
+
+---
+
+# Folder Structure
+The full technical development is organized into three folders:
+
+```
+📂 [01_Formal_Assumptions](01_Formal_Assumptions/) — axioms and postulates
+
+📂 [02_Structural_Results](02_Structural_Results/) — no‑go theorem and derived constraints
+
+📂 [03_Ontological_Categories](03_Ontological_Categories/) — formal definition of carriers, events, ray bundles, and operators
+```
+
+---
 
 If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
 
