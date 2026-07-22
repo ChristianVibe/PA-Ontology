@@ -186,4 +186,4 @@ Kongens Lyngby, Denmark
 
 - Email: [paontology@gmail.com](mailto:paontology@gmail.com)
 - GitHub Issues: https://github.com/ChristianVibe/PA-Ontology/issues
-- [GitHub Discussions](https://github.com/ChristianVibe/PA-Ontology/discussions)
+- GitHub Discussions: https://github.com/ChristianVibe/PA-Ontology/discussions
