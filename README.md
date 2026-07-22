@@ -127,15 +127,6 @@ This division of labor ensures that:
 
 Together, these constraints provide the structural mechanism by which the ontology preserves interference while respecting locality and avoiding UAH‑type failures.
 
-### Empirical Behavior
-Simulations show that the framework reproduces:
-
-- qualitative double‑slit interference,
-
-- Tsirelson‑bounded correlations in CHSH‑type tests,
-
-using only discrete carriers, modal progression, and local pruning — without wavefunctions or Hilbert‑space evolution.
-
 ---
 
 ## Simulation Results
