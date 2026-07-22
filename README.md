@@ -93,15 +93,15 @@ The ontology is built from two primitive **carrier** types:
 
 - **Quanta** — modal‑time propagation, at most two events (emission and absorption).
 
-**Actuality** consists of discrete events involving finite sets of carriers.
+**$A$, Actuality** consists of discrete events involving finite sets of carriers.
 
-**Possibility** consists of ray bundles encoding admissible modal futures.
+**$P$, Possibility** consists of ray bundles encoding admissible modal futures.
 
 The universe evolves through:
 
-- an **actualization operator** (selects an admissible interaction), and
+- **$\mathcal{A}$, the actualization operator** (selects an admissible interaction), and
 
-- a **pruning operator** (removes incompatible futures).
+- **$\mathcal{P}$, the pruning operator** (removes incompatible futures).
 
 ### Structural Resolution
 UAH‑type rules destabilize interference.
