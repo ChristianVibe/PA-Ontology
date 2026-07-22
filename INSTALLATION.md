@@ -94,9 +94,9 @@ Python experiments are located under:
 
 Example:
 
-`´`
+```
 python bells_test.py
-`´`
+```
 
 ### 3. Performance Note
 
@@ -117,7 +117,7 @@ Default parameters are intentionally small:
 ```
 TRIALS = 100
 NUMBER_OF_RAYS = 1000
-``´
+```
 
 These demonstrate the algorithmic structure but will not reach Tsirelson’s bound without increasing ray density and adding performance optimizations.
 
