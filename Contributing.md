@@ -1,7 +1,7 @@
 # Contributing
 
 This repository accompanies the paper  
-**“TA Statistical No-Go Theorem for Locally Triggered Global Actualization”**
+**“A Statistical No-Go Theorem for Locally Triggered Global Actualization”**
 
 It is intended primarily as a reference site for readers and reviewers.  
 As such, contributions are limited to:
