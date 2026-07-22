@@ -165,6 +165,40 @@ For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see 
 
 ---
 
+## Conceptual Walkthroughs
+
+To make the ontology accessible and intuitive, the repository includes
+a set of conceptual walkthroughs of canonical quantum experiments:
+
+- Double slit experiment  
+- Bell/CHSH test
+- Mach–Zehnder interferometer  
+- Page-Geilker experiment
+- Stern–Gerlach experiment  
+- Delayed-choice quantum eraser  
+- Schrödinger’s cat  
+- Wigner’s friend  
+
+These walkthroughs are not part of the formal ontology. They are provided
+to illustrate how the P/A ontology accounts for the qualitative structure
+of quantum phenomena using only ray bundles, local compatibility,
+pruning, and actualization.
+
+### Extended Walkthrough: The Hydrogen Atom
+
+In addition to the experiment-level walkthroughs, the repository also
+includes a full-length conceptual analysis of the hydrogen atom.  
+This walkthrough is structurally deeper than the others and demonstrates
+how discrete progression, curvature, and intersection-based actualization
+give rise to the familiar $1/n^2$	 spectrum without wavefunctions or
+continuous potentials.
+
+It is included here in full to establish conceptual priority and to
+provide a reference for future work. Like the other walkthroughs, it is
+not part of the formal paper.
+
+---
+
 ## Folder Structure
 The full technical development is organized into three folders:
 
@@ -177,6 +211,8 @@ The full technical development is organized into three folders:
 📂 [04_Code (C#)](./04_Code_(C%23)) — Code for the simulations written in C#
 
 📂 [05_Code_(Python)](./05_Code_(Python)) — Code for the simulations written in Python (conceptual only)
+
+📂 [06_Conceptual_Walkthroughs](./06_Conceptual_Walkwhroughs) — A set of conceptual walkthroughs of canonical quantum experiments
 
 ## Contact
 If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
