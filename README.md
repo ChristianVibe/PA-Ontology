@@ -179,6 +179,8 @@ a set of conceptual walkthroughs of canonical quantum experiments:
 - Schrödinger’s cat  
 - Wigner’s friend  
 
+The walkthroughs are available in [06_Conceptual_Walkthroughs](./06_Conceptual_Walkthroughs)
+
 These walkthroughs are not part of the formal ontology. They are provided
 to illustrate how the P/A ontology accounts for the qualitative structure
 of quantum phenomena using only ray bundles, local compatibility,
