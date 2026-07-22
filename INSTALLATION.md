@@ -26,11 +26,11 @@ You can open this solution using:
 
 - **Visual Studio Code**
 
--- Install the C# Dev Kit extension
+  - Install the C# Dev Kit extension
 
--- Open the repository folder
+  - Open the repository folder
 
--- VS Code will automatically detect and load the .slnx solution
+  - VS Code will automatically detect and load the .slnx solution
 
 The .slnx format is recognized by both environments.
 
@@ -40,17 +40,17 @@ Once the solution is open:
 
 - In **Visual Studio**:
 
--- Select a simulation project (e.g., DoubleSlit, BellTest)
+  - Select a simulation project (e.g., DoubleSlit, BellTest)
 
--- Press Run or F5
+  - Press Run or F5
 
 - In **VS Code**:
 
--- Open the Run and Debug panel
+  - Open the Run and Debug panel
 
--- Choose a simulation project
+  - Choose a simulation project
 
--- Start debugging
+  - Start debugging
 
 All simulation outputs will appear in the console window.
 
