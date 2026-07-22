@@ -174,9 +174,9 @@ The full technical development is organized into three folders:
 
 📂 [03_Ontological_Categories](./03_Ontological_Categories) — formal definition of carriers, events, ray bundles, and operators
 
-📂 [04_Code (C#)](./04_Code_(C#)) — Code for the simulations written in C#
+📂 [04_Code (C#)](./04_Code_(%23)) — Code for the simulations written in C#
 
-📂 [05_Code_(Python)](./05_Code(Python)) — Code for the simulations written in Python (conceptual only)
+📂 [05_Code_(Python)](./05_Code_(Python)) — Code for the simulations written in Python (conceptual only)
 
 ## Contact
 If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
