@@ -94,6 +94,7 @@ The ontology is built from two primitive **carrier** types:
 - **Quanta** — modal‑time propagation, at most two events (emission and absorption).
 
 **Actuality** consists of discrete events involving finite sets of carriers.
+
 **Possibility** consists of ray bundles encoding admissible modal futures.
 
 The universe evolves through:
