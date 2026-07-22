@@ -200,7 +200,7 @@ not part of the formal paper.
 ---
 
 ## Folder Structure
-The full technical development is organized into three folders:
+The full technical development is organized into these folders:
 
 📂 [01_Formal_Assumptions](./01_Formal_Assumptions) — axioms and postulates
 
