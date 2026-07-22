@@ -214,6 +214,15 @@ The full technical development is organized into these folders:
 
 📂 [06_Conceptual_Walkthroughs](./06_Conceptual_Walkthroughs) — A set of conceptual walkthroughs of canonical quantum experiments
 
+---
+
+## Installation
+For instructions on building and running the C# and Python simulations, see:
+
+[Installation & Usage](./INSTALLATION.md)
+
+---
+
 ## Contact
 If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
 
