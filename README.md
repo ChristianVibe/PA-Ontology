@@ -212,7 +212,7 @@ The full technical development is organized into three folders:
 
 📂 [05_Code_(Python)](./05_Code_(Python)) — Code for the simulations written in Python (conceptual only)
 
-📂 [06_Conceptual_Walkthroughs](./06_Conceptual_Walkwhroughs) — A set of conceptual walkthroughs of canonical quantum experiments
+📂 [06_Conceptual_Walkthroughs](./06_Conceptual_Walkthroughs) — A set of conceptual walkthroughs of canonical quantum experiments
 
 ## Contact
 If you have questions about the P/A ontology, wish to discuss the structural results, or are interested in collaboration, you’re welcome to reach out.
