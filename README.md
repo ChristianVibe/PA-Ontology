@@ -8,8 +8,10 @@
   <img src="https://img.shields.io/badge/Python-3.12-yellow.svg" />
 </p>
 
-## About
-A discrete, ray‑based ontology for closed physical systems built on a distinction between actualized events and admissible futures. The model uses finite causal propagation, local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space or wavefunctions.
+## Executive Summary
+A discrete, ray‑based ontology for closed physical systems built on a distinction between actualized events and admissible futures. The model uses finite causal propagation, local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space or wavefunctions. It offers a geometric, event‑driven alternative to standard quantum ontology, preserving empirical predictions while avoiding nonlocal influences and heavy formal commitments.
+
+**For a gentle, non‑technical introduction to the ontology’s core ideas, see the [Gentle Introduction](./gentle_introduction.md).**
 
 ---
 
