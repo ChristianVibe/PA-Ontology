@@ -95,7 +95,7 @@ The ontology is built from two primitive **carrier** types:
 
 Actuality and possibility are represented by two structural sets:
 
-- $A$ - the set of **actualized events**, each involving a finite collection of carriers at a specific spacetime coordinate.
+- $A$ - the set of **actualized events**, each involving a finite collection of carriers at specific spacetime coordinates.
 
 - $P$ — the set of **admissible modal futures**, encoded as ray bundles and waypoints. 
 
