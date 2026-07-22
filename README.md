@@ -168,13 +168,11 @@ For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see 
 ## Folder Structure
 The full technical development is organized into three folders:
 
-```
 📂 [01_Formal_Assumptions](./01_Formal_Assumptions) — axioms and postulates
 
 📂 [02_Structural_Results](./02_Structural_Results) — no‑go theorem and derived constraints
 
 📂 [03_Ontological_Categories](./03_Ontological_Categories) — formal definition of carriers, events, ray bundles, and operators
-```
 
 ---
 
