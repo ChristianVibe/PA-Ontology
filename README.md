@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC.svg" />
   <img src="https://img.shields.io/badge/Python-3.12-yellow.svg" />
 </p>
+## Executive Summary
+
+The P/A ontology is a discrete, ray‑based model for closed physical systems built on a distinction between actualized events and admissible futures. It uses finite causal propagation, stable local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space, wavefunctions, or amplitudes. The ontology offers a geometric, event‑driven alternative to standard quantum ontology while preserving empirical predictions and avoiding nonlocal influences.
+
+**For a gentle, non‑technical introduction, see the [Gentle_Introduction](Gentle_introduction.md)**
+
+---
 
 ## Overview
 
@@ -21,14 +28,6 @@ This repository presents a four‑layer research program:
 - **Simulation results** — empirical demonstrations that the ontology’s structural commitments are computationally realizable and reproduce interference, which‑path suppression, and Tsirelson‑bounded nonlocal correlations.
 
 Together, these components define a coherent framework for discrete, event‑driven physical ontology.
-
----
-
-## Executive Summary
-
-The P/A ontology is a discrete, ray‑based model for closed physical systems built on a distinction between actualized events and admissible futures. It uses finite causal propagation, stable local records, and event‑defined entanglement to reproduce interference and Tsirelson‑bounded correlations without assuming Hilbert space, wavefunctions, or amplitudes. The ontology offers a geometric, event‑driven alternative to standard quantum ontology while preserving empirical predictions and avoiding nonlocal influences.
-
-**For a gentle, non‑technical introduction, see the [Gentle_Introduction](Gentle_introduction.md)**
 
 ---
 
