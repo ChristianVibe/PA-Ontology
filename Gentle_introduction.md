@@ -47,8 +47,7 @@ $$
 
 This measurement is a **new actualization event**.
 
-At $e_{\text{alice}}$, the momentum of $p_a$ from $e_{\text{source}}$ to $e_{\text{alice}}$ becomes **established**.  
-The universe selects one admissible future for $p_a$, and that choice becomes part of actuality.
+At $e_{\text{alice}}$, the momentum of $p_a$ from $e_{\text{source}}$ to $e_{\text{alice}}$ becomes **established**. The selected ray already carried the potential for that momentum; the actualization event simply chooses one admissible future and makes it part of actuality (what we typically call physical reality).
 
 Because momentum was shared at $e_{\text{source}}$, the momentum of $p_b$ is now also established. Any previously admissible future of $p_b$ with a different momentum is **immediately pruned** from the possibility space.
 
