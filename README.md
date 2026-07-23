@@ -82,7 +82,7 @@ The P/A ontology is a constructive witness showing that the axiomatic space is n
 Each of the ontological categories of the ontology are described formally in [03_Ontological_Categories](03_Ontological_Categories)
 
 ### Theoretical Overview
-The ontology is built from two primitive **carrier** types:
+The ontology is built from two primitive [**carrier**](03_Ontological_Categories/06_Carrier.md) types:
 
 - [**Particles**](03_Ontological_Categories/07_Particle.md) — proper‑time evolution, extended causal chains.
 - [**Quanta**](03_Ontological_Categories/08_Quantum.md) — modal‑time propagation, at most two events (emission and absorption).
