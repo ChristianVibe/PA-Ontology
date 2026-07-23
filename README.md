@@ -21,11 +21,8 @@ The [**P/A ontology**](#the-pa-ontology-constructive-witness) is a **discrete**,
 This repository presents a four‑layer research program:
 
 - [**Minimal realist axioms and postulates**](#minimal-realist-axioms-and-postulates) — modest structural commitments any ontology that claims to be realist is structurally required to satisfy.
-
 - [**A structural no‑go theorem**](#structural-nogo-theorem) — showing that locally triggered, unbounded actualization rules are statistically incompatible with stable interference.
-
 - [**The P/A ontology**](#the-pa-ontology-constructive-witness) — a constructive witness demonstrating that the axiomatic space is non‑empty and capable of reproducing interference and Tsirelson‑bounded correlations.
-
 - [**Simulation results**](#simulation-results) — empirical demonstrations that the ontology’s structural commitments are computationally realizable and reproduce interference, which‑path suppression, and Tsirelson‑bounded nonlocal correlations.
 
 Together, these components define a coherent framework for discrete, event‑driven physical ontology.
@@ -38,25 +35,18 @@ The repository begins with a set of minimal realist axioms and postulates. These
 The full list is available in [01_Formal_Assumptions](01_Formal_Assumptions).
 
 **Axioms**
-* Lawlike Regularity
-
-* Universal Applicability
-
-* Observer Independence
+* [Lawlike Regularity](01_Formal_Assumptions/01_Axiom_1_Lawlike_Regularity.md)
+* [Universal Applicability](01_Formal_Assumptions/02_Axiom_2_Universal_Applicability.md)
+* [Observer Independence](01_Formal_Assumptions/03_Axiom_3_Observer_Independence.md)
 
 **Postulates**
-* Empirical Conservation
-
-* Finite‑Speed Local Dynamics
-
-* Local Stable Records
-
-* Tsirelson‑Bounded Nonlocality
-
-* Quantum Interference
-
-* Local Availability of Triggers  
-* Weak Mixing / No Fine‑Tuning
+* [Empirical Conservation](01_Formal_Assumptions/04_Postulate_4_Empirical_Conservation.md)
+* [Finite‑Speed Local Dynamics](01_Formal_Assumptions/05_Postulate_5_Finite_Speed_Local_Dynamics.md)
+* [Local Stable Records](01_Formal_Assumptions/06_Postulate_6_Local_Stable_Records.md)
+* [Tsirelson‑Bounded Nonlocality](01_Formal_Assumptions/07_Postulate_7_Tsirelson_Bounded_Nonlocality.md)
+* [Quantum Interference](01_Formal_Assumptions/08_Postulate_8_Quantum_Interference.md)
+* [Local Availability of Triggers](01_Formal_Assumptions/09_Postulate_9_Local_Availability_Of_Trigger_States.md)
+* [Weak Mixing / No Fine‑Tuning](01_Formal_Assumptions/10_Postulate_9b_Weak_Mixing_No_Fine_Tuning.md)
 
 These assumptions define the minimal realist backdrop.
 They are not tied to the P/A ontology; they define the structural landscape within which any ontology can be evaluated.
@@ -92,13 +82,11 @@ Each of the ontological categories of the ontology are described formally in [03
 The ontology is built from two primitive **carrier** types:
 
 - **Particles** — proper‑time evolution, extended causal chains.
-
 - **Quanta** — modal‑time propagation, at most two events (emission and absorption).
 
 Actuality and possibility are represented by two structural sets:
 
 - $A$ - the set of **actualized events**, each involving a finite collection of carriers at specific spacetime coordinates.
-
 - $P$ — the set of **admissible modal futures**, encoded as ray bundles and waypoints. 
 
 The dynamics of the ontology are governed by two operators:
@@ -106,7 +94,6 @@ The dynamics of the ontology are governed by two operators:
 - 𝒜 — the **actualization operator**, which selects an admissible interaction and produces a new event in 
 $𝐴$
 .
-
 - 𝒫 — the **pruning operator**, which removes incompatible futures from $𝑃$ and enforces global causal consistency.
 
 ### Structural Resolution
@@ -114,17 +101,13 @@ UAH‑type rules destabilize interference because they allow locally triggered u
 The P/A ontology avoids this by enforcing **strict locality for actualization** and **entanglement‑bounded reach for pruning**:
 
 - 𝒜 **acts only locally**, on the finite set of carriers participating in an admissible interaction at a specific spacetime coordinate.
-
 - 𝒫 **acts only on the involved particles and their entangled partners**, never on the full modal domain.
 
 This division of labor ensures that:
 
 - actualization events remain **geometrically local**,
-
 - pruning remains **causally bounded**,
-
 - update domains never become unbounded,
-
 - and interference remains **stable** under repeated trials.
 
 Together, these constraints provide the structural mechanism by which the ontology preserves interference while respecting locality and avoiding UAH‑type failures.
@@ -207,15 +190,10 @@ not part of the formal paper.
 The full technical development is organized into these folders:
 
 📂 [01_Formal_Assumptions](./01_Formal_Assumptions) — axioms and postulates
-
 📂 [02_Structural_Results](./02_Structural_Results) — no‑go theorem and derived constraints
-
 📂 [03_Ontological_Categories](./03_Ontological_Categories) — formal definition of carriers, events, ray bundles, and operators
-
 📂 [04_Code (C#)](./04_Code_(C%23)) — Code for the simulations written in C#
-
 📂 [05_Code_(Python)](./05_Code_(Python)) — Code for the simulations written in Python (conceptual only)
-
 📂 [06_Conceptual_Walkthroughs](./06_Conceptual_Walkthroughs) — A set of conceptual walkthroughs of canonical quantum experiments
 
 ---
