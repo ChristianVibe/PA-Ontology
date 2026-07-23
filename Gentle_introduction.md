@@ -96,6 +96,8 @@ The P/A ontology describes a universe where:
 
 It is a clean, geometric, event-driven framework for understanding physical reality.
 
+---
+
 # Interference
 
 In standard quantum mechanics, interference is explained by modeling a
