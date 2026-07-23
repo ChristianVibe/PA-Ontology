@@ -197,9 +197,9 @@ and modal progression**, not through wave amplitudes.
 
 ---
 
-## Relation to wave mechanics 
-### Hamilton–Jacobi perspective)  
+# Relation to wave mechanics 
+## Hamilton–Jacobi perspective)  
 According to Hamilton–Jacobi theory, ray-based descriptions and wave-based descriptions are mathematically interchangeable: ray bundles can encode the same predictive structure as wavefunctions. In this sense, the P/A ontology should not be seen as a competitor to the wave equation, but as an alternative ontological reading of the same underlying mathematical model. It replaces continuous wavefields with discrete admissible futures and actualization events, while preserving the empirical content.
 
-### Waypoints vs phase: fewer ontological commitments  
+## Waypoints vs phase: fewer ontological commitments  
 In standard quantum mechanics, interference is typically described in terms of phase oscillations of a wavefunction. The P/A ontology instead uses equidistant waypoint progression in modal time and a compatibility relation between rays. These two views are mathematically interchangeable at the level of predictions, but waypoint progression carries fewer ontological commitments: it does not require physically real waves or fields, yet still reproduces interference via ray geometry and modal alignment.
