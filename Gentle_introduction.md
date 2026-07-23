@@ -20,7 +20,7 @@ This collision is an **actualization event**: a moment where something becomes p
 
 At the collision, each particle contributes its own momentum. The total momentum must be conserved. But after the event, there is **no fact of the matter** about how the shared momentum is distributed between the two particles.
 
-This is because the particles are **point-like**. They do not carry definite physical quantities between events. Instead, each particle progresses in **modal time** as a *set of admissible futures*, each representing a different possible momentum consistent with conservation at $e_{\text{source}}$.
+Particles do not carry definite physical quantities between events. Instead, each particle progresses in [**modal time**](03_Ontological_Categories/04_Modal_Time.md) as a *set of admissible futures*, each representing a different possible momentum consistent with conservation at $e_{\text{source}}$.
 
 Nothing forces the universe to choose one yet.
 
@@ -28,7 +28,7 @@ Nothing forces the universe to choose one yet.
 
 ## Modal Futures: What Could Happen
 
-Between interactions, each particle carries a **ray bundle**: a finite set of possible modal trajectories. Along each ray, the particle has waypoints representing possible states at successive modal-time steps.
+Between interactions, each particle carries a [**ray bundle**](03_Ontological_Categories/10_Ray_Bundle.md): a finite set of possible modal trajectories. Along each ray, the particle has waypoints representing possible states at successive modal-time steps.
 
 For $p_a$ and $p_b$, these ray bundles include futures with different momenta. All of them are allowed, as long as they respect the shared constraints from $e_{\text{source}}$.
 
@@ -151,7 +151,7 @@ This alignment determines the likelihood of actualization.
 ## Alignment and Misalignment
 
 If the waypoints of $r_1$ and $r_2$ **align** at the receptor, then the
-misalignment between their spacetime projections is small:
+[misalignment](03_Ontological_Categories/14_Misalignment.md) between their spacetime projections is small:
 
 $$
 \mathrm{misalign}(r_1, x) \approx \mathrm{misalign}(r_2, x).
