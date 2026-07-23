@@ -172,14 +172,14 @@ For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see 
 To make the ontology accessible and intuitive, the repository includes
 a set of conceptual walkthroughs of canonical quantum experiments:
 
-- Double slit experiment  
-- Bell/CHSH test
-- Mach–Zehnder interferometer  
-- Page-Geilker experiment
-- Stern–Gerlach experiment  
-- Delayed-choice quantum eraser  
-- Schrödinger’s cat  
-- Wigner’s friend  
+- [Double slit experiment](06_Conceptual_Walkthroughs/01_Double_Slit_Experiment.md)
+- [Bell/CHSH test](06_Conceptual_Walkthroughs/02_Bells_test.md)
+- [Mach–Zehnder interferometer](06_Conceptual_Walkthroughs/03_Mach_Zhender.md)
+- [Page-Geilker experiment](06_Conceptual_Walkthroughs/04_Page_Geilker.md)
+- [Stern–Gerlach experiment](06_Conceptual_Walkthroughs/05_Stein_gerlach.md)
+- [Delayed-choice quantum eraser](06_Conceptual_Walkthroughs/06_Delayed_Choice_Quantum_Eraser.md)
+- [Schrödinger’s cat](06_Conceptual_Walkthroughs/07_Schrödingers_Cat.md)
+- [Wigner’s friend](06_Conceptual_Walkthroughs/08_Wigners_Friend.md)
 
 The walkthroughs are available in [06_Conceptual_Walkthroughs](./06_Conceptual_Walkthroughs)
 
