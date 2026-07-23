@@ -57,10 +57,13 @@ They are not tied to the P/A ontology; they define the structural landscape with
 A central structural result shows that certain actualization rules are statistically incompatible with stable interference. The full derivation is available in [02_Structural_Results](02_Structural_Results).
 
 > **Main Theorem (Statistical No‑Go for Undivided Actualization)**
-Let the ontology satisfy the Axioms and Postulates.
+> 
+>Let the ontology satisfy the Axioms and Postulates.
 Assume the Undivided Actualization Hypothesis (UAH): that there exists at least one actualization rule whose trigger is local but whose update domain is unbounded
-> **Theorem.**  
-Under these assumptions, there exists 
+> 
+> **Theorem.**
+> 
+>Under these assumptions, there exists 
 $p_0 > 0$
  such that the probability that interference persists across 
 $N$
