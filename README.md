@@ -90,7 +90,7 @@ The ontology is built from two primitive [**carrier**](03_Ontological_Categories
 Actuality and possibility are represented by two structural sets:
 
 - $A$ - the set of [**actualized events**](03_Ontological_Categories/05_Actuality.md), each involving a finite collection of carriers at specific spacetime coordinates.
-- $P$ — the set of [**admissible modal futures**](03_Ontological_Categories/13_Possibility.md), encoded as ray bundles and waypoints. 
+- $P$ — the set of [**admissible modal futures**](03_Ontological_Categories/13_Possibility.md), encoded as [ray bundles](03_Ontological_Categories/10_Ray_Bundle.md) and [waypoints](03_Ontological_Categories/12_Waypoint.md). 
 
 The dynamics of the ontology are governed by two operators:
 
