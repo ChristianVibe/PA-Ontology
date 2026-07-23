@@ -118,7 +118,7 @@ Together, these constraints provide the structural mechanism by which the ontolo
 ---
 
 ## Simulation Results
-The P/A ontology reproduces the qualitative structure of key quantum phenomena using only ray bundles, local compatibility, pruning, and actualization. These simulations demonstrate that the ontology’s structural commitments are computationally realizable and capable of producing nontrivial empirical signatures without wavefunctions or Hilbert‑space evolution.
+The [P/A ontology](#the-pa-ontology-constructive-witness) reproduces the qualitative structure of key quantum phenomena using only ray bundles, local compatibility, pruning, and actualization. These simulations demonstrate that the ontology’s structural commitments are computationally realizable and capable of producing nontrivial empirical signatures without wavefunctions or Hilbert‑space evolution.
 
 ### Double Slit — No Which‑Path Detection
 Interference appears when no subsystem carries which‑path information.
