@@ -32,8 +32,7 @@ Between interactions, each particle carries a [**ray bundle**](03_Ontological_Ca
 
 For $p_a$ and $p_b$, these ray bundles include futures with different momenta. All of them are allowed, as long as they respect the shared constraints from $e_{\text{source}}$.
 
-The ontology does not assume hidden variables or pre-existing facts.  
-It simply keeps track of **what could happen**.
+The ontology does not assume hidden variables or pre-existing facts. It simply keeps track of **what could happen**.
 
 ---
 
@@ -51,8 +50,7 @@ At $e_{\text{alice}}$, the momentum of $p_a$ from $e_{\text{source}}$ to $e_{\te
 
 Because momentum was shared at $e_{\text{source}}$, the momentum of $p_b$ is now also established. Any previously admissible future of $p_b$ with a different momentum is **immediately pruned** from the possibility space.
 
-This pruning is not a physical signal.  
-It is simply the requirement that **possibility must remain consistent with actuality**.
+This pruning is not a physical signal. It is simply the requirement that **possibility must remain consistent with actuality**.
 
 ---
 
@@ -72,9 +70,7 @@ This is entanglement in the P/A ontology:
 - modal futures evolve independently until they must agree,
 - and actualization enforces consistency without communication.
 
-No hidden variables.  
-No nonlocal influence.  
-Just the coordination of possibility and actuality.
+No hidden variables.  No nonlocal influence.  Just the coordination of possibility and actuality.
 
 ---
 
@@ -117,8 +113,7 @@ to:
 - passing through slit 2,
 - or being absorbed by the barrier.
 
-If the particle survives the barrier, its admissible futures now split
-into two **disjoint ray bundles**:
+If the particle survives the barrier, its admissible futures now split into two **disjoint ray bundles**:
 
 - one consisting of rays that passed through slit 1,
 - one consisting of rays that passed through slit 2.
@@ -129,8 +124,7 @@ Each ray is a sequence of waypoints with fixed modal-time spacing.
 
 ## Rays Arriving at the Receptor
 
-At the receptor screen, **exactly two rays** (one from each bundle)
-reach each spacetime point where detection is possible.
+At the receptor screen, **exactly two rays** (one from each bundle) reach each spacetime point where detection is possible.
 
 Let these rays be
 
@@ -139,8 +133,7 @@ r_1 = (w_0^{(1)}, w_1^{(1)}, \ldots), \qquad
 r_2 = (w_0^{(2)}, w_1^{(2)}, \ldots).
 $$
 
-Because waypoints are spaced uniformly in modal time, the two rays may
-arrive at the receptor with:
+Because waypoints are spaced uniformly in modal time, the two rays may arrive at the receptor with:
 
 - **aligned waypoints**, or  
 - **misaligned waypoints**.
@@ -158,25 +151,21 @@ $$
 \mathrm{misalign}(r_1, x) \approx \mathrm{misalign}(r_2, x).
 $$
 
-Aligned rays satisfy the compatibility relation more strongly, making
-actualization at that point **more likely**.
+Aligned rays satisfy the compatibility relation more strongly, making actualization at that point **more likely**.
 
-If the waypoints are **misaligned**, then the spatial deviation is
-larger:
+If the waypoints are **misaligned**, then the spatial deviation is larger:
 
 $$
 \mathrm{misalign}(r_1, x) \not\approx \mathrm{misalign}(r_2, x),
 $$
 
-and the compatibility relation is weaker, reducing the chance of
-actualization.
+and the compatibility relation is weaker, reducing the chance of actualization.
 
 ---
 
 ## Emergence of the Interference Pattern
 
-The receptor screen records actualized events. Because the probability
-of actualization depends on waypoint alignment:
+The receptor screen records actualized events. Because the probability of actualization depends on waypoint alignment:
 
 - points where the two rays arrive **in phase** (aligned waypoints)  
   have **high actualization probability** → bright fringes,
@@ -184,15 +173,13 @@ of actualization depends on waypoint alignment:
 - points where the rays arrive **out of phase** (misaligned waypoints)  
   have **low actualization probability** → dark fringes.
 
-Thus the familiar interference pattern emerges **without waves**.  
-It arises from:
+Thus the familiar interference pattern emerges **without waves**.  It arises from:
 
 1. the geometry of admissible futures,  
 2. the fixed modal-time spacing of waypoints,  
 3. and the compatibility relation’s dependence on misalignment.
 
-The P/A ontology reproduces interference entirely through **ray geometry
-and modal progression**, not through wave amplitudes.
+The P/A ontology reproduces interference entirely through **ray geometry and modal progression**, not through wave amplitudes.
 
 ---
 
