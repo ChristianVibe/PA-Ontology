@@ -191,7 +191,7 @@ pruning, and actualization.
 ### Extended Walkthrough: The Hydrogen Atom
 
 In addition to the experiment-level walkthroughs, the repository also
-includes a full-length conceptual analysis of the hydrogen atom.  
+includes [a full-length conceptual analysis of the hydrogen atom](06_Conceptual_Walkthroughs/09_The_Hydrogen_Atom.md).  
 This walkthrough is structurally deeper than the others and demonstrates
 how discrete progression, curvature, and intersection-based actualization
 give rise to the familiar $1/n^2$	 spectrum without wavefunctions or
