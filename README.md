@@ -58,7 +58,8 @@ A central structural result shows that certain actualization rules are statistic
 
 ### Main Theorem (Statistical No‑Go for Undivided Actualization)
 
->Let the ontology satisfy the Axioms and Postulates.
+>Let the ontology satisfy the [Axioms and Postulates](#minimal-realist-axioms-and-postulates)
+).
 Assume the Undivided Actualization Hypothesis (UAH): that there exists at least one actualization rule whose trigger is local but whose update domain is unbounded
 > 
 > **Theorem.**
