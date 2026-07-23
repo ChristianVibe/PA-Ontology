@@ -77,7 +77,7 @@ locally triggered, unbounded global actualization rules cannot coexist with stab
 ---
 
 ## The P/A Ontology (Constructive Witness)
-The P/A ontology is a constructive witness showing that the axiomatic space is not empty. It satisfies all axioms and postulates while avoiding UAH entirely.
+The P/A ontology is a constructive witness showing that the axiomatic space is not empty. It satisfies all axioms and postulates while avoiding [UAH](#structural-nogo-theorem) entirely.
 
 Each of the ontological categories of the ontology are described formally in [03_Ontological_Categories](03_Ontological_Categories)
 
