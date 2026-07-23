@@ -84,20 +84,20 @@ Each of the ontological categories of the ontology are described formally in [03
 ### Theoretical Overview
 The ontology is built from two primitive **carrier** types:
 
-- **Particles** — proper‑time evolution, extended causal chains.
-- **Quanta** — modal‑time propagation, at most two events (emission and absorption).
+- [**Particles**](03_Ontological_Categories/07_Particle.md) — proper‑time evolution, extended causal chains.
+- [**Quanta**](03_Ontological_Categories/08_Quantum.md) — modal‑time propagation, at most two events (emission and absorption).
 
 Actuality and possibility are represented by two structural sets:
 
-- $A$ - the set of **actualized events**, each involving a finite collection of carriers at specific spacetime coordinates.
-- $P$ — the set of **admissible modal futures**, encoded as ray bundles and waypoints. 
+- $A$ - the set of {**actualized events**](03_Ontological_Categories/05_Actuality.md), each involving a finite collection of carriers at specific spacetime coordinates.
+- $P$ — the set of [**admissible modal futures**](03_Ontological_Categories/13_Possibility.md), encoded as ray bundles and waypoints. 
 
 The dynamics of the ontology are governed by two operators:
 
-- 𝒜 — the **actualization operator**, which selects an admissible interaction and produces a new event in 
+- 𝒜 — the [**actualization operator**](03_Ontological_Categories/16_Actualization_Operator.md), which selects an admissible interaction and produces a new event in 
 $𝐴$
 .
-- 𝒫 — the **pruning operator**, which removes incompatible futures from $𝑃$ and enforces global causal consistency.
+- 𝒫 — the [**pruning operator**](03_Ontological_Categories/17_Pruning_Operator.md), which removes incompatible futures from $𝑃$ and enforces global causal consistency.
 
 ### Structural Resolution
 UAH‑type rules destabilize interference because they allow locally triggered updates with **unbounded** global reach.
