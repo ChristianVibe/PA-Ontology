@@ -20,7 +20,7 @@ The P/A ontology is a discrete, ray‑based model for closed physical systems bu
 
 This repository presents a four‑layer research program:
 
-- [**Minimal realist axioms and postulates**](#Minimal_Realist_Axioms_and_Postulates) — modest structural commitments any ontology that claims to be realist is structurally required to satisfy.
+- [**Minimal realist axioms and postulates**](#minimal_realist_axioms_and_postulates) — modest structural commitments any ontology that claims to be realist is structurally required to satisfy.
 
 - **A structural no‑go theorem** — showing that locally triggered, unbounded actualization rules are statistically incompatible with stable interference.
 
