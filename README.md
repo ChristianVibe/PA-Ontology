@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-The [**P/A ontology**](#the-pa-ontology-constructive-witness) is a **discrete**, **ray‑based** model for **closed physical systems** built on a distinction between actualized events and admissible futures. It uses finite causal propagation, stable local records, and event‑defined entanglement to reproduce **interference** and **Tsirelson‑bounded** correlations without assuming Hilbert space, wavefunctions, or amplitudes. The ontology offers a geometric, event‑driven alternative to standard quantum ontology while preserving empirical predictions and avoiding nonlocal influences.
+The  [**P/A ontology**](#the-pa-ontology-constructive-witness) is a discrete, ray‑based physical model for closed systems that distinguishes actualized events from admissible futures. Its dynamics use finite causal propagation, local stable records, and event‑defined entanglement to reproduce **interference** and **Tsirelson‑bounded** correlations without Hilbert space, wavefunctions, or amplitudes. This provides a geometric, event‑driven physical framework that preserves empirical predictions while avoiding nonlocal update rules.
 
 📘 **Gentle, non‑technical introduction:** [Gentle_Introduction](Gentle_introduction.md)
 
