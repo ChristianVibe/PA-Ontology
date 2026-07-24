@@ -1,6 +1,7 @@
 # Possibility/Actuality Ontology (P/A Ontology)
 
 <p align="center">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21535903.svg" alt="DOI">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
   <img src="https://img.shields.io/badge/Build-.NET_10-blueviolet.svg" />
   <img src="https://img.shields.io/badge/IDE-Visual_Studio_2026-5C2D91.svg" />
