@@ -12,7 +12,7 @@
 
 The  [**P/A ontology**](#the-pa-ontology-constructive-witness) is a discrete, ray‑based physical model for closed systems that distinguishes actualized events from admissible futures. Its dynamics use finite causal propagation, local stable records, and event‑defined entanglement to reproduce **interference** and **Tsirelson‑bounded** correlations without Hilbert space, wavefunctions, or amplitudes. This provides a geometric, event‑driven framework that reproduces key empirical signatures while avoiding nonlocal update rules.
 
-TThe ontology was developed as a constructive response to a [structural no-go result](#structural-nogo-theorem) showing that locally triggered, unbounded actualization rules are statistically incompatible with stable interference.
+The ontology was developed as a constructive response to a [structural no-go result](#structural-nogo-theorem) showing that locally triggered, unbounded actualization rules are statistically incompatible with stable interference.
 
 📘 **Gentle, non‑technical introduction:** [Gentle_Introduction](Gentle_introduction.md)
 
