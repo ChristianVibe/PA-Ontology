@@ -16,6 +16,8 @@ The ontology was developed as a constructive response to a [structural no-go res
 
 📘 **Gentle, non‑technical introduction:** [Gentle_Introduction](Gentle_introduction.md)
 
+🧭 **Where does the P/A ontology fit?** See [Background_and_Context](Background_and_Context.md) for intellectual lineage, related approaches, and key references.
+
 ---
 
 ## Overview
