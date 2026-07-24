@@ -183,10 +183,6 @@ The P/A ontology reproduces interference entirely through **ray geometry and mod
 
 ---
 
-# Relation to wave mechanics 
-## Hamilton–Jacobi perspective)  
-Hamilton–Jacobi theory establishes a close correspondence between wave-based and ray-based descriptions of physical systems. In this sense, the P/A ontology should not be viewed as a competitor to wave mechanics, but as an alternative ontological reading of the same predictive structure. Where standard formulations describe evolution in terms of continuous wavefields, the P/A ontology describes evolution in terms of discrete admissible futures, actualization events, and ray bundles. The empirical phenomena are the same; what changes is the underlying picture of what physically exists.
-
 # Relation to Wave Mechanics
 
 ## Hamilton–Jacobi Perspective
