@@ -203,3 +203,12 @@ frequency, and energy in continuous physics. It ensures that modal alignment is
 conserved across separated events and establishes the structural role of
 photons as misalignment carriers in the modal‑alignment ontology.
 
+---
+
+## Status of this Construction
+
+This walkthrough is intended as a conceptual illustration of how quantization arises within the P/A ontology. The associated simulation reproduces the hydrogen spectrum with high numerical agreement (approximately 0.999 under the current implementation) using modal-geodesic progression and misalignment conservation alone.
+
+The construction is not part of the formal paper and is not presented as a new physical prediction. It is included to document a potentially interesting consequence of the ontology and to establish conceptual priority. A full technical treatment remains future work.
+
+Readers interested in the implementation details or numerical results are encouraged to contact the author.
