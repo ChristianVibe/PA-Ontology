@@ -187,14 +187,11 @@ The P/A ontology reproduces interference entirely through **ray geometry and mod
 ## Hamilton–Jacobi perspective)  
 Hamilton–Jacobi theory establishes a close correspondence between wave-based and ray-based descriptions of physical systems. In this sense, the P/A ontology should not be viewed as a competitor to wave mechanics, but as an alternative ontological reading of the same predictive structure. Where standard formulations describe evolution in terms of continuous wavefields, the P/A ontology describes evolution in terms of discrete admissible futures, actualization events, and ray bundles. The empirical phenomena are the same; what changes is the underlying picture of what physically exists.
 
-## Waypoints vs phase: fewer ontological commitments  
 # Relation to Wave Mechanics
 
 ## Hamilton–Jacobi Perspective
 
 According to Hamilton–Jacobi theory, ray-based descriptions and wave-based descriptions are closely related and can encode the same predictive structure. In this sense, the P/A ontology should not be viewed as a competitor to wave mechanics, but as an alternative ontological reading of the same underlying empirical phenomena. Where standard formulations describe evolution in terms of continuous wavefields, the P/A ontology describes evolution in terms of discrete admissible futures, actualization events, and ray bundles.
-
-<br>
 
 ## Waypoints vs Phase: Fewer Ontological Commitments
 In standard quantum mechanics, interference is typically described in terms of phase oscillations of a wavefunction. The P/A ontology instead uses equidistant waypoint progression in modal time together with a compatibility relation between rays.
