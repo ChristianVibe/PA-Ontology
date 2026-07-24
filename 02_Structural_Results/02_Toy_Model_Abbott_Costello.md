@@ -56,11 +56,13 @@ which decays exponentially as $N \to \infty$.
 
 ## Interpretation
 
-This toy model shows that:
+This toy model shows that the difficulty does not arise from the details of quantum mechanics, but from the combination of:
 
-- a locally triggered but globally acting actualization rule  
-- generically spoils interference in independent experiments  
-- unless the universe is fine‑tuned to avoid trigger‑compatible states.
+- local triggering,
+- unbounded update domains,
+- and stable interference.
+
+Whenever all three are present simultaneously, stable interference becomes statistically fragile unless trigger-compatible states are systematically avoided.
 
 The full no‑go theorem extends this mechanism from laboratory scale to cosmological scale using the structural and statistical assumptions of the P/A framework.
 
