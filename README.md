@@ -151,13 +151,10 @@ giving a CHSH value: $S = 2.8091$, which is within the Tsirelson bound of $2\sqr
 
 ---
 
-## Gentle Introduction
+## Getting started
 For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see the
 [Gentle_Introduction](Gentle_Introduction.md).
 
----
-
-## Background and Context
 For the intellectual lineage of the P/A ontology, related approaches, and key references in quantum foundations, see: [Background_and_Context](Background_and_Context.md)
 
 ---
