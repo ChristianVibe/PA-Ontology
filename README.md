@@ -14,9 +14,9 @@ The  [**P/A ontology**](#the-pa-ontology-constructive-witness) is a discrete, ra
 
 The ontology was developed as a constructive response to a [structural no-go result](#structural-nogo-theorem) showing that locally triggered, unbounded actualization rules are statistically incompatible with stable interference.
 
-📘 **Gentle, non‑technical introduction:** [Gentle_Introduction](Gentle_introduction.md)
+📘 **New to the ontology?** Start here: [Gentle_Introduction](Gentle_introduction.md)
 
-🧭 **Where does the P/A ontology fit?** See [Background_and_Context](Background_and_Context.md) for intellectual lineage, related approaches, and key references.
+🧭 **Where does the P/A ontology fit within the foundations literature?** See [Background_and_Context](Background_and_Context.md) for intellectual lineage, related approaches, and key references.
 
 ---
 
@@ -154,6 +154,11 @@ giving a CHSH value: $S = 2.8091$, which is within the Tsirelson bound of $2\sqr
 ## Gentle Introduction
 For a conceptual, jargon‑free walkthrough of the ontology’s core ideas, see the
 [Gentle_Introduction](Gentle_Introduction.md).
+
+---
+
+## Background and Context
+For the intellectual lineage of the P/A ontology, related approaches, and key references in quantum foundations, see: [Background_and_Context](Background_and_Context.md)
 
 ---
 
